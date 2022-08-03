@@ -4,7 +4,7 @@
 
 ## 规则优先级
 
-每条规则会根据列表中的顺序被从上至下逐个处理，且先参数规则先被处理。
+每条规则会根据列表中的顺序被从上至下逐个处理，且参数规则先被处理。
 
 长按并拖动某条规则可以对其进行排序。
 
@@ -20,21 +20,23 @@
 
 下面的例子展示了 Tarnhelm 如何利用「参数规则」处理网易云音乐 Android 端的分享链接：
 
-> 0. 示例规则
->
->    eyJhIjoi572R5piT5LqR6Z+z5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0=
->
-> 1. 接收到文本
->
->    分享46_P/诗岸的单曲《Narcissus》: https://y.music.163.com/m/song?id=1835695995&userid=299866209&dlt=0846 (来自@网易云音乐)
->
-> 2. 根据内置正则表达式从中提取出链接
->
->    https://y.music.163.com/m/song?id=1835695995&userid=299866209&dlt=0846
->
-> 3. 根据规则中的「白名单」模式和「参数名称」中的 `id`，保留这个参数
->
->    https://y.music.163.com/m/song?id=1835695995
+::: tip 参数规则示例
+0. 示例规则
+
+   `eyJhIjoi572R5piT5LqR6Z+z5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0=`
+
+1. 接收到文本
+
+   `分享46_P/诗岸的单曲《Narcissus》: https://y.music.163.com/m/song?id=1835695995&userid=299866209&dlt=0846 (来自@网易云音乐)`
+
+2. 根据内置正则表达式从中提取出链接
+
+   `https://y.music.163.com/m/song?id=1835695995&userid=299866209&dlt=0846`
+
+3. 根据规则中的「白名单」模式和「参数名称」中的 `id`，保留这个参数
+
+   `https://y.music.163.com/m/song?id=1835695995`
+:::
 
 ## 正则规则
 
@@ -50,22 +52,24 @@
 
 下面的例子展示了 Tarnhelm 如何利用「正则规则」处理酷安 Android 端的分享链接：
 
-> 0. 示例规则
->
->       eyJhIjoi6YW35a6JIiwiYiI6WyJjb29sYXBrLmNvbSIsIlxcPy4qIl0sImMiOlsiY29vbGFwazFzLmNvbSIsIiJdLCJkIjoibHoyMzMifQ==
->
-> 1. 接收到文本
->
->    分享酷安用户@羽韵Linus 的图文：【『超长文+多图警告』Google Glass体验报告】 https://www.coolapk.com/feed/14640271?shareKey=ZjczNTkxZDBmMTU4NjJlYTU3MTU~&shareUid=12202&shareFrom=com.coolapk.market_12.4 分享自【酷安App】
->
-> 2. 根据内置正则表达式从中提取出链接
->
->     https://www.coolapk.com/feed/14640271?shareKey=ZjczNTkxZDBmMTU4NjJlYTU3MTU~&shareUid=12202&shareFrom=com.coolapk.market_12.4
->
-> 3. 根据规则中的第一条正则 `coolapk.com` 找到匹配并替换为 `coolapk1s.com`
->
->     https://www.coolapk1s.com/feed/14640271?shareKey=ZjczNTkxZDBmMTU4NjJlYTU3MTU~&shareUid=12202&shareFrom=com.coolapk.market_12.4
->
-> 4. 根据规则中的第二条正则 `\?.*` 匹配所有参数并替换为空字符串
->
->     https://www.coolapk1s.com/feed/14640271
+::: tip 正则规则示例
+0. 示例规则
+
+      `eyJhIjoi6YW35a6JIiwiYiI6WyJjb29sYXBrLmNvbSIsIlxcPy4qIl0sImMiOlsiY29vbGFwazFzLmNvbSIsIiJdLCJkIjoibHoyMzMifQ==`
+
+1. 接收到文本
+
+   `分享酷安用户@羽韵Linus 的图文：【『超长文+多图警告』Google Glass体验报告】 https://www.coolapk.com/feed/14640271?shareKey=ZjczNTkxZDBmMTU4NjJlYTU3MTU~&shareUid=12202&shareFrom=com.coolapk.market_12.4 分享自【酷安App】`
+
+2. 根据内置正则表达式从中提取出链接
+
+    `https://www.coolapk.com/feed/14640271?shareKey=ZjczNTkxZDBmMTU4NjJlYTU3MTU~&shareUid=12202&shareFrom=com.coolapk.market_12.4`
+
+3. 根据规则中的第一条正则 `coolapk.com` 找到匹配并替换为 `coolapk1s.com`
+
+    `https://www.coolapk1s.com/feed/14640271?shareKey=ZjczNTkxZDBmMTU4NjJlYTU3MTU~&shareUid=12202&shareFrom=com.coolapk.market_12.4`
+
+4. 根据规则中的第二条正则 `\?.*` 匹配所有参数并替换为空字符串
+
+    `https://www.coolapk1s.com/feed/14640271`
+:::
