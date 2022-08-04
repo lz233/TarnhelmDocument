@@ -1,12 +1,12 @@
 # 简介
 
-Tarnhelm 可以帮助你清理应用分享链接中的追踪参数，并尽可能保持这个过程的自然。
+Tarnhelm 会帮助你清理应用分享链接中的追踪参数，并尽可能保持这个过程的自然。
 
 Tarnhelm 一词来源于《The Ring of the Nibelung》，参见 [Wikipedia](https://en.wikipedia.org/wiki/Tarnhelm)。
 
 ## 编辑菜单模式
 
-在可输入的文字框内，选中文本并点击「Tarnhelm」即可对链接进行处理。
+在可编辑的文字框内，选中文本并点击「Tarnhelm」即可对链接进行处理。
 
 <p style="text-align: center;">
 <img src="./introduction-1.png" style="zoom: 40%;" />
