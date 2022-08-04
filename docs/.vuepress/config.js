@@ -12,8 +12,12 @@ module.exports = {
     home: '/index.md',
     navbar: [
         {
-            text: '简介',
+            text: '首页',
             link: '/',
+        },
+        {
+            text: '简介',
+            link: '/introduction',
         },
         {
             text: '指南',

@@ -12,10 +12,10 @@ sidebar: false
 <img class="icon1" src="/icon-color.png" alt="icon-color" style="zoom:30%;"/>
 </p>
 <h1 align="center">Tarnhelm</h1>
-<p align="center">The magic to clean sharing links up</p>
+<p align="center">The magic to clean sharing links up.</p>
 
 <p style="text-align: center;">
 <a href="https://play.google.com/store/apps/details?id=cn.ac.lz233.tarnhelm">
-<img src="./google-play-badge.png" alt="icon-color" style="zoom:30%;"/>
+<img src="./index-1.png" alt="icon-color" style="zoom:30%;"/>
 </a>
 </p>
