@@ -47,6 +47,21 @@ https://weread.qq.com/book-detail?type=&senderVid=&v=b2b3283071f3f63db2b307d&wth
 https://weread.qq.com/book-detail?v=b2b3283071f3f63db2b307d
 ```
 
+### 作业帮
+
+[添加](tarnhelm://rule?parameter=eyJhIjoi5L2c5Lia5biuIiwiZSI6InBsYXQtbWluaWFwcC56dW95ZWJhbmcuY29tIiwiZiI6MCwiZyI6WyJjdWlkIiwiaXNoaXQiXSwiZCI6Im9tZy14dGFvIn0=)
+
+```
+域名：plat-miniapp.zuoyebang.com
+模式：白名单
+参数：
+    cuid
+    ishit
+作者：omg-xtao
+https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca000+b2e53b3649d2faceb9caf17c7c305bca7c3dc99125440b67?appId=&uid=&cuid=DE1C58473E8FD9C41CC3C7569E9CA35A%7C0&jzms=&ishit=1
+https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca000+b2e53b3649d2faceb9caf17c7c305bca7c3dc99125440b67?cuid=DE1C58473E8FD9C41CC3C7569E9CA35A%7C0&ishit=1
+```
+
 ## 正则规则
 
 ### 京东
