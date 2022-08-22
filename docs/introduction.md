@@ -28,6 +28,7 @@ Tarnhelm 一词来源于《The Ring of the Nibelung》，参见 [Wikipedia](http
 <p style="text-align: center;">
 <img src="./introduction-4.png" style="zoom: 40%;" />
 </p>
+
 ## 后台监听模式
 
 理想情况下，Tarnhelm 会常驻后台监听剪贴板，并对内容进行实时处理。
