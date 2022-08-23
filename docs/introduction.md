@@ -43,6 +43,12 @@ adb shell am force-stop cn.ac.lz233.tarnhelm
 
 同时，为了在各类国产 ROM 上允许应用自动开启处理服务，请在「最近任务」界面锁定 Tarnhelm，并转到「安全中心」-「自启动管理」，允许 Tarnhelm 自启动，或在每次开机后手动打开 Tarnhelm 一次。请放心，Tarnhelm 不会在后台进行任何多余的操作。
 
+<p style="text-align: center;">
+<img src="./introduction-5.png" style="zoom: 40%;" />
+</p>
+
+在 Android 13+ 设备上，可能还会有如上提示出现，且仅能允许一次性授权。此时，强烈推荐打开前台服务模式，否则每隔一段时间，系统都会要求您重新进行授权。
+
 ## Xposed 模式
 
 在管理器中激活 Tarnhelm 并重启，随后在系统每次将内容存入剪贴板的时候，应用都会对内容进行操作。
@@ -52,5 +58,5 @@ adb shell am force-stop cn.ac.lz233.tarnhelm
 目前此模式仅支持 LSPosed。
 
 <p style="text-align: center;">
-<img src="./introduction-5.png" style="zoom: 40%;" />
+<img src="./introduction-6.png" style="zoom: 40%;" />
 </p>
