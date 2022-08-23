@@ -8,6 +8,31 @@
 
 ## 参数规则
 
+### 哔哩哔哩直播
+
+[添加](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp55u05pKt6Ze0IiwiZSI6ImxpdmUuYmlsaWJpbGkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IumdkuWiqCJ9)
+
+```
+域名：live.bilibili.com
+模式：白名单
+参数：
+作者：青墨
+https://live.bilibili.com/22603245?broadcast_type=0&is_room_feed=1
+https://live.bilibili.com/22603245
+```
+
+### 哔哩哔哩动态分享
+[添加](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp5Yqo5oCB5YiG5LqrIiwiZSI6InQuYmlsaWJpbGkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IumdkuWiqCJ9)
+
+```
+域名：t.bilibili.com
+模式：白名单
+参数：
+作者：青墨
+https://t.bilibili.com/697612442479362072?share_source=copy_link&share_medium=android
+https://t.bilibili.com/697612442479362072
+```
+
 ### 淘宝/闲鱼
 
 [添加](tarnhelm://rule?parameter=eyJhIjoi5reY5a6dXC/pl7LpsbwiLCJlIjoibS50Yi5jbiIsImYiOjAsImciOlsiIl0sImQiOiJsejIzMyJ9)
