@@ -1,6 +1,7 @@
-const { defaultTheme } = require('@vuepress/theme-default')
+import { defineUserConfig } from 'vuepress'
+import { defaultTheme } from 'vuepress'
 
-module.exports = {
+export default defineUserConfig({
   lang: 'zh-CN',
   title: 'Tarnhelm',
   head: [['link', { rel: 'icon', href: '/icon-color.png' }]],
@@ -38,4 +39,4 @@ module.exports = {
      ],
   }),
   dest: 'public',
-}
+})
