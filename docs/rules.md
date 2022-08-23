@@ -8,7 +8,9 @@
 
 ## 参数规则
 
-### 哔哩哔哩动态分享
+### 哔哩哔哩
+
+#### 动态分享
 
 [添加](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp5Yqo5oCB5YiG5LqrIiwiZSI6InQuYmlsaWJpbGkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IumdkuWiqCJ9)
 
@@ -21,20 +23,7 @@ https://t.bilibili.com/697612442479362072?share_source=&share_medium=
 https://t.bilibili.com/697612442479362072
 ```
 
-### 哔哩哔哩直播分享
-
-[添加](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp55u05pKt6Ze0IiwiZSI6ImxpdmUuYmlsaWJpbGkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IumdkuWiqCJ9)
-
-```
-域名：live.bilibili.com
-模式：白名单
-参数：
-作者：青墨
-https://live.bilibili.com/22603245?broadcast_type=&is_room_feed=
-https://live.bilibili.com/22603245
-```
-
-### 哔哩哔哩直播预约分享
+#### 预约分享
 
 [添加](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9)
 
@@ -45,6 +34,19 @@ https://live.bilibili.com/22603245
 作者：青墨
 https://www.bilibili.com/h5/lottery/result?lottery_id=106993&business_type=10&business_id=909786&i_transfer_match=
 https://www.bilibili.com/h5/lottery/result?lottery_id=106993&business_type=10&business_id=909786
+```
+
+#### 直播分享
+
+[添加](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp55u05pKt6Ze0IiwiZSI6ImxpdmUuYmlsaWJpbGkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IumdkuWiqCJ9)
+
+```
+域名：live.bilibili.com
+模式：白名单
+参数：
+作者：青墨
+https://live.bilibili.com/22603245?broadcast_type=&is_room_feed=
+https://live.bilibili.com/22603245
 ```
 
 ### 淘宝/闲鱼
