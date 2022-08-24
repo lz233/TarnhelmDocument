@@ -112,7 +112,7 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 模式：白名单
 参数：
 作者：lz233
-https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs?si=Q4q1oAOuTcy_gexghaGo9g&utm_source=copy-link
+https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs?si=&utm_source=
 https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs
 ```
 
@@ -125,7 +125,7 @@ https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs
 模式：白名单
 参数：
 作者：mitian233
-https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185?i=1629870409&ls
+https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185?i=
 https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185
 ```
 
