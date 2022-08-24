@@ -103,6 +103,32 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca000+b2e53b3649d2faceb9caf17c7c305bca7c3dc99125440b67?cuid=DE1C58473E8FD9C41CC3C7569E9CA35A%7C0&ishit=1
 ```
 
+### Spotify
+
+[添加](tarnhelm://rule?parameter=eyJhIjoiU3BvdGlmeSIsImUiOiJvcGVuLnNwb3RpZnkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Imx6MjMzIn0=)
+
+```
+域名：open.spotify.com
+模式：白名单
+参数：
+作者：lz233
+https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs?si=Q4q1oAOuTcy_gexghaGo9g&utm_source=copy-link
+https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs
+```
+
+### Apple Music
+
+[添加](tarnhelm://rule?parameter=eyJhIjoiQXBwbGUgTXVzaWMiLCJlIjoibXVzaWMuYXBwbGUuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Im1pdGlhbjIzMyJ9)
+
+```
+域名：music.apple.com
+模式：白名单
+参数：
+作者：mitian233
+https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185?i=1629870409&ls
+https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185
+```
+
 ## 正则规则
 
 ### 京东
