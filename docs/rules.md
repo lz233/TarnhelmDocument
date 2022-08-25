@@ -18,6 +18,16 @@
 https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185?i=
 https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185
 ```
+### [贴吧分享](tarnhelm://rule?parameter=eyJhIjoi55m%2B5bqm6LS05ZCnIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
+
+```
+域名：tieba.baidu.com
+模式：白名单
+参数：
+作者：青墨
+https://tieba.baidu.com/p/7989575070?share=&fr=&see_lz=&share_from=&sfc=&client_type=&client_version=&st=&is_video=&unique=
+https://tieba.baidu.com/p/7989575070
+```
 
 ### 哔哩哔哩
 
@@ -74,17 +84,6 @@ https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs
 作者：lz233
 https://m.tb.cn/h.fBDkd2S?tk=
 https://m.tb.cn/h.fBDkd2S
-```
-
-### [贴吧分享](tarnhelm://rule?parameter=eyJhIjoi6LS05ZCn5YiG5LqrIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
-
-```
-域名：tieba.baidu.com
-模式：白名单
-参数：
-作者：青墨
-https://tieba.baidu.com/p/7989575070?share=&fr=&see_lz=&share_from=&sfc=&client_type=&client_version=&st=&is_video=&unique=
-https://tieba.baidu.com/p/7989575070
 ```
 
 ### [腾讯视频](tarnhelm://rule?parameter=eyJhIjoi6IW%2B6K6v6KeG6aKRIiwiZSI6Im0udi5xcS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoi6Z2S5aKoIn0%3D)
