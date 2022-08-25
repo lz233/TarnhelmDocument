@@ -54,7 +54,7 @@ https://live.bilibili.com/22603245?broadcast_type=&is_room_feed=
 https://live.bilibili.com/22603245
 ```
 
-### [Spotify](tarnhelm://rule?parameter=eyJhIjoiU3BvdGlmeSIsImUiOiJvcGVuLnNwb3RpZnkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Imx6MjMzIn0=)
+### [Spotify](tarnhelm://rule?parameter=eyJhIjoiU3BvdGlmeSIsImUiOiJvcGVuLnNwb3RpZnkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
 域名：open.spotify.com
@@ -65,7 +65,7 @@ https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs?si=&utm_source=
 https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs
 ```
 
-### [淘宝/闲鱼](tarnhelm://rule?parameter=eyJhIjoi5reY5a6dXC/pl7LpsbwiLCJlIjoibS50Yi5jbiIsImYiOjAsImciOlsiIl0sImQiOiJsejIzMyJ9)
+### [淘宝/闲鱼](tarnhelm://rule?parameter=eyJhIjoi5reY5a6dXC%2Fpl7LpsbwiLCJlIjoibS50Yi5jbiIsImYiOjAsImciOlsiIl0sImQiOiJsejIzMyJ9)
 
 ```
 域名：m.tb.cn
@@ -87,7 +87,7 @@ https://y.music.163.com/m/song?id=1835695995&uct=&dlt=&app_version=&sc=&tn=
 https://y.music.163.com/m/song?id=1835695995
 ```
 
-### [微信读书](tarnhelm://rule?parameter=eyJhIjoi5b6u5L+h6K+75LmmIiwiZSI6IndlcmVhZC5xcS5jb20iLCJmIjowLCJnIjpbInYiXSwiZCI6Imx6MjMzIn0=)
+### [微信读书](tarnhelm://rule?parameter=eyJhIjoi5b6u5L%2Bh6K%2B75LmmIiwiZSI6IndlcmVhZC5xcS5jb20iLCJmIjowLCJnIjpbInYiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
 域名：weread.qq.com
@@ -113,7 +113,7 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 
 ## 正则规则
 
-### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw/LioiXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiJdLCJkIjoibHoyMzMifQ==)
+### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw%2FLioiXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
 正则：
@@ -127,7 +127,7 @@ https://item.m.jd.com/product/10024081053559.html?gx=&ad_od=&utm_source=&utm_med
 https://item.jd.com/10024081053559.html
 ```
 
-### [酷安](tarnhelm://rule?regex=eyJhIjoi6YW35a6JIiwiYiI6WyJjb29sYXBrLmNvbVwvZmVlZFwvIiwiXFw/LioiXSwiYyI6WyJjb29sYXBrMXMuY29tXC9mZWVkXC8iLCIiXSwiZCI6Imx6MjMzIn0=)
+### [酷安](tarnhelm://rule?regex=eyJhIjoi6YW35a6JIiwiYiI6WyJjb29sYXBrLmNvbVwvZmVlZFwvIiwiXFw%2FLioiXSwiYyI6WyJjb29sYXBrMXMuY29tXC9mZWVkXC8iLCIiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
 正则：
@@ -141,7 +141,7 @@ https://www.coolapk.com/feed/14640271?shareKey=&shareUid=&shareFrom=
 https://www.coolapk1s.com/feed/14640271
 ```
 
-### [Twitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsidHdpdHRlci5jb20iLCJcXD8uKiJdLCJjIjpbInZ4dHdpdHRlci5jb20iLCIiXSwiZCI6Imx6MjMzIn0=)
+### [Twitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsidHdpdHRlci5jb20iLCJcXD8uKiJdLCJjIjpbInZ4dHdpdHRlci5jb20iLCIiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
 正则：
