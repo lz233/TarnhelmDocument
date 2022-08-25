@@ -76,6 +76,28 @@ https://m.tb.cn/h.fBDkd2S?tk=
 https://m.tb.cn/h.fBDkd2S
 ```
 
+### [贴吧分享](tarnhelm://rule?parameter=eyJhIjoi6LS05ZCn5YiG5LqrIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
+
+```
+域名：tieba.baidu.com
+模式：白名单
+参数：
+作者：青墨
+https://tieba.baidu.com/p/7989575070?share=&fr=&see_lz=&share_from=&sfc=&client_type=&client_version=&st=&is_video=&unique=
+https://tieba.baidu.com/p/7989575070
+```
+
+### [腾讯视频](tarnhelm://rule?parameter=eyJhIjoi6IW%2B6K6v6KeG6aKRIiwiZSI6Im0udi5xcS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoi6Z2S5aKoIn0%3D)
+
+```
+域名：m.v.qq.com
+模式：白名单
+参数：
+作者：青墨
+http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html?playtime=&url_from=&second_share=&share_from=
+http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html
+```
+
 ### [网易云音乐](tarnhelm://rule?parameter=eyJhIjoi572R5piT5LqR6Z%2Bz5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
