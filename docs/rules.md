@@ -127,28 +127,28 @@ https://item.m.jd.com/product/10024081053559.html?gx=&ad_od=&utm_source=&utm_med
 https://item.jd.com/10024081053559.html
 ```
 
-### [酷安](tarnhelm://rule?regex=eyJhIjoi6YW35a6JIiwiYiI6WyJjb29sYXBrLmNvbVwvZmVlZFwvIiwiXFw%2FLioiXSwiYyI6WyJjb29sYXBrMXMuY29tXC9mZWVkXC8iLCIiXSwiZCI6Imx6MjMzIn0%3D)
+### [酷安](tarnhelm://rule?regex=eyJhIjoi6YW35a6JIiwiYiI6WyJjb29sYXBrLmNvbSIsIlxcPy4qIl0sImMiOlsiY29vbGFwazFzLmNvbSIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
 正则：
-    coolapk.com/feed/
+    coolapk.com
     \?.*
 替换：
-    coolapk1s.com/feed/
+    coolapk1s.com
     
 作者：lz233
 https://www.coolapk.com/feed/14640271?shareKey=&shareUid=&shareFrom=
 https://www.coolapk1s.com/feed/14640271
 ```
 
-### [Twitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsidHdpdHRlci5jb20iLCJcXD8uKiJdLCJjIjpbInZ4dHdpdHRlci5jb20iLCIiXSwiZCI6Imx6MjMzIn0%3D)
+### [Twitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC90d2l0dGVyLmNvbSIsIlxcPy4qIl0sImMiOlsiaHR0cHM6XC9cL3Z4dHdpdHRlci5jb20iLCIiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
 正则：
-    twitter.com
+    (http|https)://twitter.com
     \?.*
 替换：
-    vxtwitter.com
+    https://vxtwitter.com
     
 作者：lz233
 https://twitter.com/mariotaku/status/496733277274013696?t=&s=
