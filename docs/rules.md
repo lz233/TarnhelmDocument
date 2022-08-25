@@ -76,7 +76,7 @@ https://m.tb.cn/h.fBDkd2S?tk=
 https://m.tb.cn/h.fBDkd2S
 ```
 
-### [网易云音乐](tarnhelm://rule?parameter=eyJhIjoi572R5piT5LqR6Z+z5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0=)
+### [网易云音乐](tarnhelm://rule?parameter=eyJhIjoi572R5piT5LqR6Z%2Bz5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
 域名：y.music.163.com
