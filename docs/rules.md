@@ -175,3 +175,16 @@ https://www.coolapk1s.com/feed/14640271
 https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://vxtwitter.com/mariotaku/status/496733277274013696
 ```
+
+### [哔哩哔哩b23.tv](tarnhelm://rule?regex=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiYiI6WyJiMjMudHYiXSwiYyI6WyJiMjMud3RmIl0sImQiOiJQaWFuQ2F0In0%3D)
+
+```
+正则：
+    b23.tv
+替换：
+    b23.wtf
+
+作者：PianCat
+https://b23.tv/dKIlsDQ
+https://b23.wtf/dKIlsDQ
+```
