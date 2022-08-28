@@ -86,15 +86,17 @@ https://m.tb.cn/h.fBDkd2S?tk=
 https://m.tb.cn/h.fBDkd2S
 ```
 
-### [腾讯视频](tarnhelm://rule?parameter=eyJhIjoi6IW%2B6K6v6KeG6aKRIiwiZSI6Im0udi5xcS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoi6Z2S5aKoIn0%3D)
+### [腾讯视频](tarnhelm://rule?parameter=eyJhIjoi6IW%2B6K6v6KeG6aKRIiwiZSI6Im0udi5xcS5jb20iLCJmIjowLCJnIjpbInZpZCJdLCJkIjoi6Z2S5aKoIn0%3D)
 
 ```
 域名：m.v.qq.com
 模式：白名单
-参数：
+参数：vid
 作者：青墨
 http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html?playtime=&url_from=&second_share=&share_from=
 http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html
+https://m.v.qq.com/x/m/play?vid=p3353dbvy6v&cid=&url_from=share&second_share=0&share_from=copy
+https://m.v.qq.com/x/m/play?vid=p3353dbvy6v
 ```
 
 ### [网易云音乐](tarnhelm://rule?parameter=eyJhIjoi572R5piT5LqR6Z%2Bz5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0%3D)
