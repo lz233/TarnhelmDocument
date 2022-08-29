@@ -18,7 +18,7 @@
 https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185?i=
 https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185
 ```
-### [贴吧分享](tarnhelm://rule?parameter=eyJhIjoi55m%2B5bqm6LS05ZCnIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
+### [百度贴吧分享](tarnhelm://rule?parameter=eyJhIjoi55m%2B5bqm6LS05ZCn5YiG5LqrIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
 
 ```
 域名：tieba.baidu.com
@@ -42,6 +42,19 @@ https://t.bilibili.com/697612442479362072?share_source=&share_medium=
 https://t.bilibili.com/697612442479362072
 ```
 
+#### [会员购分享](tarnhelm://rule?parameter=eyJhIjoi5Lya5ZGY6LSt5YiG5LqrIiwiZSI6Im1hbGwuYmlsaWJpbGkuY29tIiwiZiI6MCwiZyI6WyJub1RpdGxlQmFyIiwiaXRlbXNJZCJdLCJkIjoi6Z2S5aKoIn0%3D)
+
+```
+域名：mall.bilibili.com
+模式：白名单
+参数： 
+      noTitleBar
+      itemsId
+作者：青墨
+https://mall.bilibili.com/detail.html?noTitleBar=1&loadingShow=&from=&pageType=&msource=history&outsideMall=&itemsId=10082880
+https://mall.bilibili.com/detail.html?noTitleBar=1&itemsId=10082880
+```
+
 #### [预约分享](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9)
 
 ```
@@ -62,6 +75,17 @@ https://www.bilibili.com/h5/lottery/result?lottery_id=106993&business_type=10&bu
 作者：青墨
 https://live.bilibili.com/22603245?broadcast_type=&is_room_feed=
 https://live.bilibili.com/22603245
+```
+
+#### [QQ频道分享](tarnhelm://rule?parameter=eyJhIjoiUVHpopHpgZPliIbkuqsiLCJlIjoicXVuLnFxLmNvbSIsImYiOjAsImciOlsiaW52aXRlQ29kZSJdLCJkIjoi6Z2S5aKoIn0%3D)
+
+```
+域名：qun.qq.com
+模式：白名单
+参数：inviteCode
+作者：青墨
+https://qun.qq.com/qqweb/qunpro/share?_wv=&_wwv=&appChannel=&inviteCode=2dsmVd&businessType=&from=&biz=
+https://qun.qq.com/qqweb/qunpro/share?inviteCode=2dsmVd
 ```
 
 ### [Spotify](tarnhelm://rule?parameter=eyJhIjoiU3BvdGlmeSIsImUiOiJvcGVuLnNwb3RpZnkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Imx6MjMzIn0%3D)
@@ -92,7 +116,7 @@ https://m.tb.cn/h.fBDkd2S
 域名：m.v.qq.com
 模式：白名单
 参数：vid
-作者：青墨
+作者：returnL 青墨
 http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html?playtime=&url_from=&second_share=&share_from=
 http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html
 https://m.v.qq.com/x/m/play?vid=p3353dbvy6v&cid=&url_from=share&second_share=0&share_from=copy
