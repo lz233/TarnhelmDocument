@@ -33,11 +33,13 @@ Tarnhelm 一词来源于《The Ring of the Nibelung》，参见 [Wikipedia](http
 
 理想情况下，Tarnhelm 会常驻后台监听剪贴板，并对内容进行实时处理。
 
+如果你在使用 MIUI 设备，请忽略以下**所有**内容，并看[这里](/introduction-miui.html)。
+
 为了在 Android 10+ 的设备上开启此功能，请使用 ADB 执行以下命令：
 
 ```shell
-adb -d shell appops set cn.ac.lz233.tarnhelm SYSTEM_ALERT_WINDOW allow
-adb -d shell pm grant cn.ac.lz233.tarnhelm android.permission.READ_LOGS
+adb shell appops set cn.ac.lz233.tarnhelm SYSTEM_ALERT_WINDOW allow
+adb shell pm grant cn.ac.lz233.tarnhelm android.permission.READ_LOGS
 adb shell am force-stop cn.ac.lz233.tarnhelm
 ```
 
