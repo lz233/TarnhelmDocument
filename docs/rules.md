@@ -18,7 +18,7 @@
 https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185?i=
 https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185
 ```
-### [百度贴吧分享](tarnhelm://rule?parameter=eyJhIjoi55m%2B5bqm6LS05ZCn5YiG5LqrIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
+### [百度贴吧分享](tarnhelm://rule?parameter=eyJhIjoi55m%2B5bqm6LS05ZCnIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
 
 ```
 域名：tieba.baidu.com
@@ -48,8 +48,8 @@ https://t.bilibili.com/697612442479362072
 域名：mall.bilibili.com
 模式：白名单
 参数： 
-      noTitleBar
-      itemsId
+    noTitleBar
+    itemsId
 作者：青墨
 https://mall.bilibili.com/detail.html?noTitleBar=1&loadingShow=&from=&pageType=&msource=history&outsideMall=&itemsId=10082880
 https://mall.bilibili.com/detail.html?noTitleBar=1&itemsId=10082880
@@ -77,7 +77,7 @@ https://live.bilibili.com/22603245?broadcast_type=&is_room_feed=
 https://live.bilibili.com/22603245
 ```
 
-#### [QQ频道分享](tarnhelm://rule?parameter=eyJhIjoiUVHpopHpgZPliIbkuqsiLCJlIjoicXVuLnFxLmNvbSIsImYiOjAsImciOlsiaW52aXRlQ29kZSJdLCJkIjoi6Z2S5aKoIn0%3D)
+### [QQ 频道](tarnhelm://rule?parameter=eyJhIjoiUVEg6aKR6YGTIiwiZSI6InF1bi5xcS5jb20iLCJmIjowLCJnIjpbImludml0ZUNvZGUiXSwiZCI6IumdkuWiqCJ9)
 
 ```
 域名：qun.qq.com
@@ -110,13 +110,13 @@ https://m.tb.cn/h.fBDkd2S?tk=
 https://m.tb.cn/h.fBDkd2S
 ```
 
-### [腾讯视频](tarnhelm://rule?parameter=eyJhIjoi6IW%2B6K6v6KeG6aKRIiwiZSI6Im0udi5xcS5jb20iLCJmIjowLCJnIjpbInZpZCJdLCJkIjoi6Z2S5aKoIn0%3D)
+### [腾讯视频](tarnhelm://rule?parameter=eyJhIjoi6IW%2B6K6v6KeG6aKRIiwiZSI6Im0udi5xcS5jb20iLCJmIjowLCJnIjpbInZpZCJdLCJkIjoicmV0dXJuTOOAgemdkuWiqCJ9)
 
 ```
 域名：m.v.qq.com
 模式：白名单
 参数：vid
-作者：returnL 青墨
+作者：returnL、青墨
 http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html?playtime=&url_from=&second_share=&share_from=
 http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html
 https://m.v.qq.com/x/m/play?vid=p3353dbvy6v&cid=&url_from=share&second_share=0&share_from=copy
