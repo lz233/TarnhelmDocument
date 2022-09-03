@@ -55,6 +55,17 @@ https://mall.bilibili.com/detail.html?noTitleBar=1&loadingShow=&from=&pageType=&
 https://mall.bilibili.com/detail.html?noTitleBar=1&itemsId=10082880
 ```
 
+#### [个人界面分享](tarnhelm://rule?parameter=eyJhIjoi5Liq5Lq655WM6Z2i5YiG5LqrIiwiZSI6InNwYWNlLmJpbGliaWxpLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
+
+```
+域名：space.bilibili.com
+模式：白名单
+参数：
+作者：青墨
+https://space.bilibili.com/1265680561?share_medium=&share_source=&bbid=&ts=
+https://space.bilibili.com/1265680561
+```
+
 #### [预约分享](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9)
 
 ```
