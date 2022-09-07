@@ -66,6 +66,21 @@ https://space.bilibili.com/1265680561?share_medium=&share_source=&bbid=&ts=
 https://space.bilibili.com/1265680561
 ```
 
+#### [视频分享](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp6KeG6aKR5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbInNoYXJlX21lZGl1bSIsInNoYXJlX3NvdXJjZSIsImJiaWQiLCJ0cyJdLCJkIjoibGl0dGxlZjB4In0%3D)
+
+```
+域名：www.bilibili.com
+模式：黑名单
+参数：
+    share_medium
+    share_source
+    bbid
+    ts
+作者：littlef0x
+https://www.bilibili.com/video/BV1xS4y1H7UL?share_medium=&share_source=&bbid=&ts=
+https://www.bilibili.com/video/BV1xS4y1H7UL
+```
+
 #### [预约分享](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9)
 
 ```
