@@ -104,6 +104,7 @@ https://live.bilibili.com/22603245
 ```
 
 ### [Disney+](tarnhelm://rule?parameter=eyJhIjoiRGlzbmV5KyIsImUiOiJ3d3cuZGlzbmV5cGx1cy5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibWl0aWFuMjMzIn0%3D)
+
 ```
 域名：www.disneyplus.com
 模式：白名单
