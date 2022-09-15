@@ -103,6 +103,27 @@ https://live.bilibili.com/22603245?broadcast_type=&is_room_feed=
 https://live.bilibili.com/22603245
 ```
 
+### [Disney+](tarnhelm://rule?parameter=eyJhIjoiRGlzbmV5KyIsImUiOiJ3d3cuZGlzbmV5cGx1cy5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibWl0aWFuMjMzIn0%3D)
+```
+域名：www.disneyplus.com
+模式：白名单
+参数：
+作者：mitian233
+https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP?sharesource=Android
+https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP
+```
+
+### [Netflix](tarnhelm://rule?parameter=eyJhIjoiTmV0ZmxpeCIsImUiOiJ3d3cubmV0ZmxpeC5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibWl0aWFuMjMzIn0%3D)
+
+```
+域名：www.netflix.com
+模式：白名单
+参数：
+作者：mitian233
+https://www.netflix.com/tw/title/81565554?s=&trkid=&t=&vlang=&clip=
+https://www.netflix.com/tw/title/81565554
+```
+
 ### [QQ 频道](tarnhelm://rule?parameter=eyJhIjoiUVEg6aKR6YGTIiwiZSI6InF1bi5xcS5jb20iLCJmIjowLCJnIjpbImludml0ZUNvZGUiXSwiZCI6IumdkuWiqCJ9)
 
 ```
