@@ -208,6 +208,18 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 
 ## 正则规则
 
+### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
+
+```
+正则：
+	exhentai.org
+替换：
+	e-hentai.org
+	
+作者：ous50
+自己找例子（
+```
+
 ### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw%2FLioiXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
@@ -277,17 +289,5 @@ https://vxtwitter.com/mariotaku/status/496733277274013696
 作者：ous50
 https://youtube.com/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
-```
-
-### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
-
-```
-正则：
-	exhentai.org
-替换：
-	e-hentai.org
-	
-作者：ous50
-自己找例子（
 ```
 
