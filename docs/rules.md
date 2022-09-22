@@ -265,3 +265,29 @@ https://pixiv.re/77096628-5.png
 https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://vxtwitter.com/mariotaku/status/496733277274013696
 ```
+
+### [YouTube Mobile](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBNb2JpbGUiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wveW91dHUuYmVcLyJdLCJjIjpbImh0dHBzOlwvXC95b3V0dWJlLmNvbVwvd2F0Y2hcXD92PSJdLCJkIjoib3VzNTAifQ%3D%3D)
+
+```
+正则：
+	(http|https)://youtu.be/	
+替换：
+	https://youtube.com/watch\?v=
+	
+作者：ous50
+https://youtube.com/watch?v=GtL1huin9EE
+https://www.youtube.com/watch?v=GtL1huin9EE
+```
+
+### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
+
+```
+正则：
+	exhentai.org
+替换：
+	e-hentai.org
+	
+作者：ous50
+自己找例子（
+```
+
