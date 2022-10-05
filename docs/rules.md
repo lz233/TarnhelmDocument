@@ -114,6 +114,20 @@ https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP?sh
 https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP
 ```
 
+### [恩山无线论坛](tarnhelm://rule?parameter=eyJhIjoi5oGp5bGx5peg57q%2F6K665Z2bIiwiZSI6Ind3dy5yaWdodC5jb20uY24iLCJmIjoxLCJnIjpbImF1dGhvcmlkIiwiZXh0cmEiXSwiZCI6Im91czUwICJ9)
+
+```
+域名：www.right.com.cn
+模式：黑名单
+参数：
+	authorid
+	extra
+作者：ous50
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4128509&extra=&authorid=328458&page=1
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4128509&page=1
+```
+
+
 ### [Netflix](tarnhelm://rule?parameter=eyJhIjoiTmV0ZmxpeCIsImUiOiJ3d3cubmV0ZmxpeC5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibWl0aWFuMjMzIn0%3D)
 
 ```
