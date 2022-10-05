@@ -120,8 +120,8 @@ https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP
 域名：www.right.com.cn
 模式：黑名单
 参数：
-	authorid
-	extra
+    authorid
+    extra
 作者：ous50
 https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4128509&extra=&authorid=328458&page=1
 https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4128509&page=1
@@ -226,10 +226,9 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 
 ```
 正则：
-	exhentai.org
+    exhentai.org
 替换：
-	e-hentai.org
-	
+    e-hentai.org
 作者：ous50
 自己找例子（
 ```
@@ -296,10 +295,9 @@ https://vxtwitter.com/mariotaku/status/496733277274013696
 
 ```
 正则：
-	(http|https)://youtu.be/	
+    (http|https)://youtu.be/	
 替换：
-	https://youtube.com/watch\?v=
-	
+    https://youtube.com/watch\?v=
 作者：ous50
 https://youtube.com/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
