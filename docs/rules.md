@@ -222,6 +222,18 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 
 ## 正则规则
 
+### [Bilibili-移动端](tarnhelm://rule?regex=eyJhIjoiQmlsaUJpbGkg6KeG6aKR77yI56e75Yqo56uv77yJIiwiYiI6WyIoQnxiKTIzLnR2Il0sImMiOlsiYjIzLnd0ZiJdLCJkIjoib3VzNTAifQ%3D%3D)
+
+```
+正则：
+	(B|b)23.tv
+替换：
+	b23.wtf
+作者：ous50
+https://b23.tv/ezHeNZS
+https://www.bilibili.com/video/BV1vW411L7tf?p=1
+```
+
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
 
 ```
