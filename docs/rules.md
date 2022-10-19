@@ -114,6 +114,17 @@ https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP?sh
 https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP
 ```
 
+### [DLsite](tarnhelm://rule?parameter=eyJhIjoiRExzaXRlIiwiZSI6Ind3dy5kbHNpdGUuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Ik1hdGVDaGFuIn0%3D)
+
+```
+域名：www.dlsite.com
+模式：白名单
+参数：
+作者：MateChan
+https://www.dlsite.com/soft/work/=/product_id/VJ014866.html/?utm_medium=affiliate&utm_campaign=work_link&utm_content=VJ014866&utm_source=none
+https://www.dlsite.com/soft/work/=/product_id/VJ014866.html
+```
+
 ### [恩山无线论坛](tarnhelm://rule?parameter=eyJhIjoi5oGp5bGx5peg57q%2F6K665Z2bIiwiZSI6Ind3dy5yaWdodC5jb20uY24iLCJmIjoxLCJnIjpbImF1dGhvcmlkIiwiZXh0cmEiXSwiZCI6Im91czUwICJ9)
 
 ```
@@ -127,6 +138,16 @@ https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4128509&extra=&autho
 https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=4128509&page=1
 ```
 
+### [Google Search](tarnhelm://rule?parameter=eyJhIjoiR29vZ2xlIFNlYXJjaCIsImUiOiJ3d3cuZ29vZ2xlLmNvbSIsImYiOjAsImciOlsicSJdLCJkIjoiTWF0ZUNoYW4ifQ%3D%3D)
+
+```
+域名：www.google.com
+模式：白名单
+参数：q
+作者：MateChan
+https://www.google.com/search?q=Tarnhelm&oq=Tarnhelm&sourceid=chrome-mobile&ie=UTF-8
+https://www.google.com/search?q=Tarnhelm
+```
 
 ### [Netflix](tarnhelm://rule?parameter=eyJhIjoiTmV0ZmxpeCIsImUiOiJ3d3cubmV0ZmxpeC5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibWl0aWFuMjMzIn0%3D)
 
@@ -221,6 +242,20 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 ```
 
 ## 正则规则
+
+### [Amazon Japan](tarnhelm://rule?regex=eyJhIjoiQW1hem9uIEphcGFuIiwiYiI6WyJhbWF6b25cXC5jb1xcLmpwXC8uKlwvZHAiLCJyZWY9LioiXSwiYyI6WyJhbWF6b24uY28uanBcL2RwIiwiIl0sImQiOiJNYXRlQ2hhbiJ9)
+
+```
+正则：
+    amazon\.co\.jp/.*/dp
+    ref=.*
+替换：
+    amazon.co.jp/dp
+    
+作者：MateChan
+https://www.amazon.co.jp/モンスター-アサヒ飲料-エナジー-355ml×24本/dp/B007V6MQJY/ref=mp_s_a_1_1?crid=1DO2L9OKB2SGH&keywords=魔剤&qid=1665554354&qu=eyJxc2MiOiIyLjAxIiwicXNhIjoiMS4zOSIsInFzcCI6IjEuNDQifQ==&sprefix=魔剤,aps,317&sr=8-1
+https://www.amazon.co.jp/dp/B007V6MQJY
+```
 
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
 
