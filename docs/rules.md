@@ -334,7 +334,7 @@ https://vxtwitter.com/mariotaku/status/496733277274013696
 替换：
     https://youtube.com/watch\?v=
 作者：ous50
-https://youtube.com/watch?v=GtL1huin9EE
+https://youtu.be/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
 ```
 
