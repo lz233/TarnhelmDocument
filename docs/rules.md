@@ -326,6 +326,20 @@ https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://vxtwitter.com/mariotaku/status/496733277274013696
 ```
 
+### [微博轻享版 Weibo intl.](tarnhelm://rule?regex=eyJhIjoi5b6u5Y2a6L275Lqr54mI5YiG5Lqr6ZO%2B5o6l6L2s5o2iIiwiYiI6WyJzaGFyZS5hcGkud2VpYm8uY24iLCJzaGFyZVwvW14lXSood2VpYm9faWQ9KSJdLCJjIjpbIm0ud2VpYm8uY24iLCJzdGF0dXNcLyJdLCJkIjoi5LiJ5rO9In0%3D)
+
+```
+正则：
+    share.api.weibo.cn
+    share/[^%]*(weibo_id=)
+替换：
+    m.weibo.cn
+    status/
+作者：三泽
+https://share.api.weibo.cn/share/0,4838040630203665.html?weibo_id=4838040630203665
+https://m.weibo.cn/status/4838040630203665
+```
+
 ### [YouTube Mobile](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBNb2JpbGUiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wveW91dHUuYmVcLyJdLCJjIjpbImh0dHBzOlwvXC95b3V0dWJlLmNvbVwvd2F0Y2hcXD92PSJdLCJkIjoib3VzNTAifQ%3D%3D)
 
 ```
