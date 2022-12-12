@@ -228,6 +228,21 @@ https://weread.qq.com/book-detail?type=&senderVid=&v=b2b3283071f3f63db2b307d&wth
 https://weread.qq.com/book-detail?v=b2b3283071f3f63db2b307d
 ```
 
+### [微信公众号文章](tarnhelm://rule?parameter=eyJhIjoi5b6u5L%2Bh5YWs5LyX5Y%2B35paH56ugIiwiZSI6Im1wLndlaXhpbi5xcS5jb20iLCJmIjowLCJnIjpbIl9fYml6IiwibWlkIiwiaWR4Iiwic24iXSwiZCI6IlBSTy0yNjg0In0%3D)
+
+```
+域名：mp.weixin.qq.com
+模式：白名单
+参数：
+    __biz
+    mid
+    idx
+    sn
+作者：PRO-2684
+https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a347701b1b4e6642dcbb317035153bbb&chksm=&mpshare=&scene=&srcid=&sharer_sharetime=&sharer_shareid=#rd
+https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a347701b1b4e6642dcbb317035153bbb
+```
+
 ### [作业帮](tarnhelm://rule?parameter=eyJhIjoi5L2c5Lia5biuIiwiZSI6InBsYXQtbWluaWFwcC56dW95ZWJhbmcuY29tIiwiZiI6MCwiZyI6WyJjdWlkIiwiaXNoaXQiXSwiZCI6Im9tZy14dGFvIn0=)
 
 ```
