@@ -241,6 +241,22 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca000+b2e53b3649d2faceb9caf17c7c305bca7c3dc99125440b67?cuid=DE1C58473E8FD9C41CC3C7569E9CA35A%7C0&ishit=1
 ```
 
+
+### [微信公众号文章](tarnhelm://rule?parameter=eyJhIjoi5b6u5L%2Bh5YWs5LyX5Y%2B35paH56ugIiwiZSI6Im1wLndlaXhpbi5xcS5jb20iLCJmIjowLCJnIjpbIl9fYml6IiwibWlkIiwiaWR4Iiwic24iXSwiZCI6IlBSTy0yNjg0In0%3D)
+
+```
+域名：mp.weixin.qq.com
+模式：白名单
+参数：
+    __biz
+    mid
+    idx
+    sn
+作者：PRO-2684
+https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a347701b1b4e6642dcbb317035153bbb&chksm=&mpshare=&scene=&srcid=&sharer_sharetime=&sharer_shareid=#rd
+https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a347701b1b4e6642dcbb317035153bbb
+```
+
 ## 正则规则
 
 ### [Amazon Japan](tarnhelm://rule?regex=eyJhIjoiQW1hem9uIEphcGFuIiwiYiI6WyJhbWF6b25cXC5jb1xcLmpwXC8uKlwvZHAiLCJyZWY9LioiXSwiYyI6WyJhbWF6b24uY28uanBcL2RwIiwiIl0sImQiOiJNYXRlQ2hhbiJ9)
