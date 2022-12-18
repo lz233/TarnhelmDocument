@@ -7,20 +7,20 @@
 - 转到应用的「权限」-「隐私」，将「读取剪贴板」和「保存项目到剪贴板」设定为「在使用时允许」。
 
   <p style="text-align: center;">
-  <img src="./introduction-miui-1.png" style="zoom: 40%;" />
-  <img src="./introduction-miui-2.png" style="zoom: 40%;" />
+  <img src="./introduction-miui-1.webp" style="zoom: 40%;" />
+  <img src="./introduction-miui-2.webp" style="zoom: 40%;" />
   </p>
 
 - 往下滚动到「设置」，将「显示悬浮窗」和「在后台显示悬浮窗」设定为「永远允许」。
 
   <p style="text-align: center;">
-  <img src="./introduction-miui-3.png" style="zoom: 40%;" />
+  <img src="./introduction-miui-3.webp" style="zoom: 40%;" />
   </p>
 
 - 转到应用的「通知」-「处理结果」，打开「悬浮通知」。
 
   <p style="text-align: center;">
-  <img src="./introduction-miui-4.png" style="zoom: 40%;" />
+  <img src="./introduction-miui-4.webp" style="zoom: 40%;" />
   </p>
 
 - 最后使用 ADB 执行以下命令：

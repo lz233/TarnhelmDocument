@@ -9,8 +9,8 @@ Tarnhelm 一词来源于《The Ring of the Nibelung》，参见 [Wikipedia](http
 在可编辑的文字框内，选中文本并点击「Tarnhelm」即可对链接进行处理。
 
 <p style="text-align: center;">
-<img src="./introduction-1.png" style="zoom: 40%;" />
-<img src="./introduction-2.png" style="zoom: 40%;" />
+<img src="./introduction-1.webp" style="zoom: 40%;" />
+<img src="./introduction-2.webp" style="zoom: 40%;" />
 </p>
 
 ## 复制菜单模式
@@ -18,7 +18,7 @@ Tarnhelm 一词来源于《The Ring of the Nibelung》，参见 [Wikipedia](http
 选中链接并点击「Tarnhelm Copy」，可将选中的文本进行处理并加入剪切板。
 
 <p style="text-align: center;">
-<img src="./introduction-3.png" style="zoom: 40%;" />
+<img src="./introduction-3.webp" style="zoom: 40%;" />
 </p>
 
 ## 分享对话框模式
@@ -26,14 +26,14 @@ Tarnhelm 一词来源于《The Ring of the Nibelung》，参见 [Wikipedia](http
 在分享内容时，选中「Tarnhelm」即可对链接进行处理并进行下一步操作。长按应用图标可以将 Tarnhelm 置顶。
 
 <p style="text-align: center;">
-<img src="./introduction-4.png" style="zoom: 40%;" />
+<img src="./introduction-4.webp" style="zoom: 40%;" />
 </p>
 
 ## 后台监听模式
 
 理想情况下，Tarnhelm 会常驻后台监听剪贴板，并对内容进行实时处理。
 
-如果你在使用 MIUI 设备，请忽略以下**所有**内容，并看[这里](/introduction-miui.html)。
+如果你在使用 MIUI 设备，请忽略以下命令，并看[这里](/introduction-miui.html)。
 
 为了在 Android 10+ 的设备上开启此功能，请使用 ADB 执行以下命令：
 
@@ -46,19 +46,26 @@ adb shell am force-stop cn.ac.lz233.tarnhelm
 同时，为了在各类国产 ROM 上允许应用自动开启处理服务，请在「最近任务」界面锁定 Tarnhelm，并转到「安全中心」-「自启动管理」，允许 Tarnhelm 自启动，或在每次开机后手动打开 Tarnhelm 一次。请放心，Tarnhelm 不会在后台进行任何多余的操作。
 
 <p style="text-align: center;">
-<img src="./introduction-5.png" style="zoom: 40%;" />
+<img src="./introduction-5.webp" style="zoom: 40%;" />
 </p>
 
 在 Android 13+ 设备上，可能还会有如上提示出现，且仅能允许一次性授权。此时，强烈推荐打开前台服务模式，否则每隔一段时间，系统都会要求您重新进行授权。
 
 ## Xposed 模式
 
-在管理器中激活 Tarnhelm 并重启，随后在系统每次将内容存入剪贴板的时候，应用都会对内容进行操作。
-
-注意，这个模式与「后台监听」实现的效果是一样的，即都对剪切板进行操作，二选一即可。在有 Xposed 的情况下，我们更推荐此模式。
-
-目前此模式仅支持 LSPosed。
+在 Xposed 管理器中激活 Tarnhelm 并重启，随后可以在应用中找到 Xposed 设置。目前提供两种模式，分别为「重写剪切板」和「覆写剪切板悬浮窗」（Android 13+）。
 
 <p style="text-align: center;">
-<img src="./introduction-6.png" style="zoom: 40%;" />
+<img src="./introduction-6.webp" style="zoom: 40%;" />
 </p>
+
+「重写剪切板」即在应用将文本存入剪切板时对其修改。注意，这个方式与「后台监听」实现的效果是一样的，即都对剪切板进行实时操作，二选一即可。在有 Xposed 的情况下，更推荐此模式。
+
+「覆写剪切板悬浮窗」会在受支持的 Android 13+ 设备的系统剪切板悬浮窗上创建一个新的 chip，点按可对剪切板中的文本进行操作。
+
+<p style="text-align: center;">
+<img src="./introduction-7.webp" style="zoom: 40%;" />
+</p>
+
+
+目前此模式仅支持 LSPosed。
