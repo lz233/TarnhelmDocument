@@ -367,7 +367,7 @@ https://youtu.be/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
 ```
 
-### [华为应用市场详细页转下载直链](tarnhelm://rule?regex=eyJhIjoi5Y2O5Li65bqU55So5biC5Zy66K%2Bm5oOF6aG16L2s5LiL6L296ZO%2B5o6lIiwiYiI6WyJhcHBnYWxsZXJ5Lmh1YXdlaS5jb21cL2FwcCIsIlxcPy4qIl0sImMiOlsiYXBwZ2FsbGVyeS5odWF3ZWkuY29tXC9hcHBkbCIsIiJdLCJkIjoiUGlhbkNhdCJ9)
+### [华为应用市场详细页转下载直链](tarnhelm://rule?regex=eyJhIjoi5Y2O5Li65bqU55So5biC5Zy66K%2Bm5oOF6aG16L2s5LiL6L296ZO%2B5o6lIiwiYiI6WyJhcHBnYWxsZXJ5Lmh1YXdlaS5jb21cL2FwcCIsIlxcPy4qIl0sImMiOlsiYXBwZ2FsbGVyeS5jbG91ZC5odWF3ZWkuY29tXC9hcHBkbCIsIiJdLCJkIjoiUGlhbkNhdCJ9)
 
 ```
 正则：
@@ -378,5 +378,5 @@ https://www.youtube.com/watch?v=GtL1huin9EE
     
 作者：PianCat
 https://appgallery.huawei.com/app/C100137037?sharePrepath=ag&locale=zh_CN&source=appshare&subsource=C100137037&shareTo=copylink&shareFrom=appmarket&shareIds=b46eba24cf2f4807950fce4b0e129bf3_8&callType=SHARE
-https://appgallery.huawei.com/appdl/C100137037
+https://appgallery.cloud.huawei.com/appdl/C100137037
 ```
