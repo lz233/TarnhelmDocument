@@ -327,6 +327,24 @@ https://www.pixiv.net/artworks/77096628#5
 https://pixiv.re/77096628-5.png
 ```
 
+### [什么值得买](tarnhelm://rule?regex=eyJhIjoi5LuA5LmI5YC85b6X5LmwIiwiYiI6WyIoaHR0cHM6XC9cL3Rlc3Quc216ZG0uY29tXC9wXC9cXGQrKShcXD8uKil8KGh0dHBzOlwvXC8uKlxcLnNtemRtXFwuY29tXC8uKlwvKSguKikiXSwiYyI6WyIkMSQzIl0sImQiOiJIaW5hdGFLYXRvIn0%3D)
+
+```
+正则：
+    (https://test.smzdm.com/p/\d+)(\?.*)|(https://.*\.smzdm\.com/.*/)(.*)
+替换：
+    $1$3
+作者：加藤日向
+https://test.smzdm.com/p/(ID)?zdm_ss=Android__(UUID)&from=other
+https://www.smzdm.com/p/(Number)/?zdm_ss=Android__(UUID)&from=other
+https://post.m.smzdm.com/talk/p/(ID)/?zdm_ss=Android__(UUID)&from=other
+https://post.m.smzdm.com/p/(ID)/?zdm_ss=Android__(UUID)&from=other
+https://test.smzdm.com/p/(ID)
+https://www.smzdm.com/p/(Number)/
+https://post.m.smzdm.com/talk/p/(ID)/
+https://post.m.smzdm.com/p/(ID)/
+```
+
 ### [Twitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC90d2l0dGVyLmNvbSIsIlxcPy4qIl0sImMiOlsiaHR0cHM6XC9cL3Z4dHdpdHRlci5jb20iLCIiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
