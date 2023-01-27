@@ -283,14 +283,16 @@ https://www.amazon.co.jp/dp/B007V6MQJY
 自己找例子（
 ```
 
-### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw%2FLioiXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
+### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw%2FLioiLCJwcm9kdWN0XC8iXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
 正则：
     item.m.jd.com
     \?.*
+    product/
 替换：
     item.jd.com
+    
     
 作者：lz233
 https://item.m.jd.com/product/10024081053559.html?gx=&ad_od=&utm_source=&utm_medium=&utm_campaign=&utm_term=
