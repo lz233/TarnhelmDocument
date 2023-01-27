@@ -338,11 +338,11 @@ https://pixiv.re/77096628-5.png
     $1$3
 作者：加藤日向
 https://test.smzdm.com/p/(ID)?zdm_ss=Android__(UUID)&from=other
-https://www.smzdm.com/p/(ID)/?zdm_ss=Android__(UUID)&from=other
+https://www.smzdm.com/p/(Number)/?zdm_ss=Android__(UUID)&from=other
 https://post.m.smzdm.com/talk/p/(ID)/?zdm_ss=Android__(UUID)&from=other
 https://post.m.smzdm.com/p/(ID)/?zdm_ss=Android__(UUID)&from=other
 https://test.smzdm.com/p/(ID)
-https://www.smzdm.com/p/(ID)/
+https://www.smzdm.com/p/(Number)/
 https://post.m.smzdm.com/talk/p/(ID)/
 https://post.m.smzdm.com/p/(ID)/
 ```
