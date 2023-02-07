@@ -283,6 +283,20 @@ https://www.amazon.co.jp/dp/B007V6MQJY
 自己找例子（
 ```
 
+### [Fanbox](tarnhelm://rule?regex=eyJhIjoiZmFuYm94IiwiYiI6WyIuZmFuYm94LmNjIiwiXFw%2FLioiXSwiYyI6WyIuZmFuYm94LmNjIiwiIl0sImQiOiJvbWcteHRhbyJ9)
+
+```
+正则：
+    .fanbox.cc
+    \?.*
+替换：
+    .fanbox.cc
+    
+作者：omg-xtao
+https://official.fanbox.cc/posts/5103101?utm_campaign=post_published_follower&utm_medium=sendgrid&utm_source=email
+https://official.fanbox.cc/posts/5103101
+```
+
 ### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw%2FLioiLCJwcm9kdWN0XC8iXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
