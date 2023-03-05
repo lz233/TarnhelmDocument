@@ -243,6 +243,17 @@ https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a34770
 https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a347701b1b4e6642dcbb317035153bbb
 ```
 
+### [小红书](tarnhelm://rule?parameter=eyJhIjoi5bCP57qi5LmmIiwiZSI6Ind3dy54aWFvaG9uZ3NodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoiUnRZa2sifQ%3D%3D)
+
+```
+域名：www.xiaohongshu.com
+模式：白名单
+参数：
+作者：RtYkk
+https://www.xiaohongshu.com/discovery/item/63df94a9000000001d01eeee?app_platform=&app_version=&share_from_user_hidden=&type=&xhsshare=CopyLink&appuid=&apptime=
+https://www.xiaohongshu.com/discovery/item/63df94a9000000001d01eeee
+```
+
 ### [作业帮](tarnhelm://rule?parameter=eyJhIjoi5L2c5Lia5biuIiwiZSI6InBsYXQtbWluaWFwcC56dW95ZWJhbmcuY29tIiwiZiI6MCwiZyI6WyJjdWlkIiwiaXNoaXQiXSwiZCI6Im9tZy14dGFvIn0=)
 
 ```
