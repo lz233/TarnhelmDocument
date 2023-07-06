@@ -425,3 +425,15 @@ https://www.youtube.com/watch?v=GtL1huin9EE
 https://appgallery.huawei.com/app/C100137037?sharePrepath=ag&locale=zh_CN&source=appshare&subsource=C100137037&shareTo=copylink&shareFrom=appmarket&shareIds=b46eba24cf2f4807950fce4b0e129bf3_8&callType=SHARE
 https://appgallery.cloud.huawei.com/appdl/C100137037
 ```
+
+### [Instagram/Threads](tarnhelm://rule?regex=eyJhIjoiVGhyZWFkcy5uZXQiLCJiIjpbIlxcP2lnc2hpZD0uKiJdLCJjIjpbIiJdLCJkIjoiZ2Nud20ifQ%3D%3D)
+
+```
+正则：
+    \?igshid=.*
+替换：
+    
+作者：Zois
+https://www.threads.net/t/CuWKGXPv_n4/?igshid=
+https://www.threads.net/t/CuWKGXPv_n4/
+```
