@@ -437,3 +437,13 @@ https://appgallery.cloud.huawei.com/appdl/C100137037
 https://www.threads.net/t/CuWKGXPv_n4/?igshid=
 https://www.threads.net/t/CuWKGXPv_n4/
 ```
+
+### [微店分享](tarnhelm://rule?regex=eyJhIjoi5b6u5bqXIiwiZSI6ImsueW91c2hvcDEwLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJraXJpdG8ifQ%3D%3D)
+
+```
+域名：k.youshop10.com
+模式：白名单
+参数：
+作者：kirito
+https://k.youshop10.com/atHaOQyq?share_relation=&a=&wfr=
+https://k.youshop10.com/atHaOQyq
