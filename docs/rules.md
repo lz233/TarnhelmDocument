@@ -171,6 +171,17 @@ https://qun.qq.com/qqweb/qunpro/share?_wv=&_wwv=&appChannel=&inviteCode=2dsmVd&b
 https://qun.qq.com/qqweb/qunpro/share?inviteCode=2dsmVd
 ```
 
+### [全民K歌](tarnhelm://rule?parameter=eyJhIjoi5YWo5rCRa%2BatjCIsImUiOiJzdGF0aWMtcGxheS5rZy5xcS5jb20iLCJmIjowLCJnIjpbInMiXSwiZCI6IumdkuWiqCJ9)
+
+```
+域名：static-play.kg.qq.com
+模式：白名单
+参数：s
+作者：青墨
+https://static-play.kg.qq.com/node/fF4a3J7LZP/play_v2?s=xxxxxx&shareuid=xxxxxx&abtype=13&shareDescABType=4&topsource=xxxxxx&pageId=poplayer
+https://static-play.kg.qq.com/node/fF4a3J7LZP/play_v2?s=xxxxxx
+```
+
 ### [Spotify](tarnhelm://rule?parameter=eyJhIjoiU3BvdGlmeSIsImUiOiJvcGVuLnNwb3RpZnkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
