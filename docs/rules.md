@@ -349,6 +349,22 @@ https://www.coolapk.com/feed/14640271?shareKey=&shareUid=&shareFrom=
 https://www.coolapk1s.com/feed/14640271
 ```
 
+### [拼多多多人团](tarnhelm://rule?regex=eyJhIjoi5ou85aSa5aSa5aSa5Lq65ZuiIiwiYiI6WyJ5YW5na2VkdW9cXC5jb20iLCJodHRwcz86XC9cLy4rXFwueWFuZ2tlZHVvXFwuY29tXC9sb2dpblxcLmh0bWxcXD9mcm9tPShodHRwcz86XC9cLy4rXFwueWFuZ2tlZHVvXFwuY29tXC8uK2h0bWxcXD8pIiwiXFw%2FLio%2FKC4rP2lkPS4rPykmKC4rPz0uKykqIl0sImMiOlsieWFuZ2tlZHVvLmNvbSIsIiQxIiwiPyQxIl0sImQiOiJNb3NuZXkifQ%3D%3D)
+
+```
+正则：
+    yangkeduo\.com
+    https?://.+\.yangkeduo\.com/login\.html\?from=(https?://.+\.yangkeduo\.com/.+html\?)
+    \?.*?(.+?id=.+?)&(.+?=.+)*
+替换：
+    yangkeduo.com
+    $1
+    ?$1
+作者：Mosney
+https://mobile.yangkeduo.com/login.html?from=https://mobile.yangkeduo.com/pincard_ask.html?__rp_name=brand_amazing_price_group&group_order_id=123&refer_page_name=&refer_page_id=&refer_page_sn=&...
+https://mobile.yangkeduo.com/pincard_ask.html?__rp_name=brand_amazing_price_group&group_order_id=123
+```
+
 ### [Pixiv](tarnhelm://rule?regex=eyJhIjoiUGl4aXYiLCJiIjpbIih3d3cuKT9waXhpdi5uZXRcL2FydHdvcmtzXC8iLCIkIiwiIyJdLCJjIjpbInBpeGl2LnJlXC8iLCIucG5nIiwiLSJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
@@ -458,3 +474,4 @@ https://www.threads.net/t/CuWKGXPv_n4/
 作者：kirito
 https://k.youshop10.com/atHaOQyq?share_relation=&a=&wfr=
 https://k.youshop10.com/atHaOQyq
+```
