@@ -349,15 +349,15 @@ https://www.coolapk.com/feed/14640271?shareKey=&shareUid=&shareFrom=
 https://www.coolapk1s.com/feed/14640271
 ```
 
-### [拼多多多人团](tarnhelm://rule?regex=eyJhIjoi5ou85aSa5aSa5aSa5Lq65ZuiIiwiYiI6WyJ5YW5na2VkdW9cXC5jb20iLCJodHRwcz86XC9cLy4rXFwueWFuZ2tlZHVvXFwuY29tXC9sb2dpblxcLmh0bWxcXD9mcm9tPShodHRwcz86XC9cLy4rXFwueWFuZ2tlZHVvXFwuY29tXC8uK2h0bWxcXD8pIiwiXFw%2FLio%2FKC4rP2lkPS4rPykmKC4rPz0uKykqIl0sImMiOlsieWFuZ2tlZHVvLmNvbSIsIiQxIiwiPyQxIl0sImQiOiJNb3NuZXkifQ%3D%3D)
+### [拼多多多人团](tarnhelm://rule?regex=eyJhIjoi5ou85aSa5aSa5aSa5Lq65ZuiIiwiYiI6WyJ5YW5na2VkdW9cXC5jb21cL3BpbmNhcmRfYXNrLmh0bWxcXD9fX3JwX25hbWU9YnJhbmRfYW1hemluZ19wcmljZV9ncm91cCIsImh0dHBzPzpcL1wvLitcXC55YW5na2VkdW9cXC5jb21cL2xvZ2luXFwuaHRtbFxcP2Zyb209KGh0dHBzPzpcL1wvLitcXC55YW5na2VkdW9cXC5jb21cLy4raHRtbFxcPykiLCJcXD8uKj8oLis%2FaWQ9Lis%2FKSYoLis%2FPS4rKSoiXSwiYyI6WyJ5YW5na2VkdW8uY29tXC9waW5jYXJkX2Fzay5odG1sP19fcnBfbmFtZT1icmFuZF9hbWF6aW5nX3ByaWNlX2dyb3VwIiwiJDEiLCI%2FJDEiXSwiZCI6Ik1vc25leSJ9)
 
 ```
 正则：
-    yangkeduo\.com
+    yangkeduo\.com/pincard_ask.html\?__rp_name=brand_amazing_price_group
     https?://.+\.yangkeduo\.com/login\.html\?from=(https?://.+\.yangkeduo\.com/.+html\?)
     \?.*?(.+?id=.+?)&(.+?=.+)*
 替换：
-    yangkeduo.com
+    yangkeduo.com/pincard_ask.html?__rp_name=brand_amazing_price_group
     $1
     ?$1
 作者：Mosney
