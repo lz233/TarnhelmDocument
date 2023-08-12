@@ -399,11 +399,11 @@ https://post.m.smzdm.com/talk/p/(ID)/
 https://post.m.smzdm.com/p/(ID)/
 ```
 
-### [Twitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC90d2l0dGVyLmNvbSIsIlxcPy4qIl0sImMiOlsiaHR0cHM6XC9cL3Z4dHdpdHRlci5jb20iLCIiXSwiZCI6Imx6MjMzIn0%3D)
+### [Twitter/X](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC92eHR3aXR0ZXIuY29tIiwiIl0sImQiOiJsejIzMyJ9)
 
 ```
 正则：
-    (http|https)://twitter.com
+    (http|https)://(twitter|x).com
     \?.*
 替换：
     https://vxtwitter.com
