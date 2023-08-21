@@ -475,3 +475,17 @@ https://www.threads.net/t/CuWKGXPv_n4/
 https://k.youshop10.com/atHaOQyq?share_relation=&a=&wfr=
 https://k.youshop10.com/atHaOQyq
 ```
+
+### [fixupx](tarnhelm://rule?regex=eyJhIjoiZml4dXB4IiwiYiI6WyIoaHR0cHxodHRwcyk6XC9cL3guY29tIiwiXFw%2FLioiXSwiYyI6WyJodHRwczpcL1wvZml4dXB4LmNvbSIsIiJdLCJkIjoiWm9pcyJ9)
+
+```
+正则：
+    (http|https)://x.com
+    \?.*
+替换：
+    https://fixupx.com
+
+作者：Zois
+https://x.com/yuruhuwa_kdenpa/status/1690335265775403008
+https://fixupx.com/yuruhuwa_kdenpa/status/1690335265775403008
+```
