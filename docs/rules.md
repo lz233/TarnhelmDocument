@@ -254,6 +254,17 @@ https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a34770
 https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a347701b1b4e6642dcbb317035153bbb
 ```
 
+### [微店分享](tarnhelm://rule?regex=eyJhIjoi5b6u5bqXIiwiZSI6ImsueW91c2hvcDEwLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJraXJpdG8ifQ%3D%3D)
+
+```
+域名：k.youshop10.com
+模式：白名单
+参数：
+作者：kirito
+https://k.youshop10.com/atHaOQyq?share_relation=&a=&wfr=
+https://k.youshop10.com/atHaOQyq
+```
+
 ### [小红书](tarnhelm://rule?parameter=eyJhIjoi5bCP57qi5LmmIiwiZSI6Ind3dy54aWFvaG9uZ3NodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoiUnRZa2sifQ%3D%3D)
 
 ```
@@ -317,6 +328,32 @@ https://www.amazon.co.jp/dp/B007V6MQJY
 作者：omg-xtao
 https://official.fanbox.cc/posts/5103101?utm_campaign=post_published_follower&utm_medium=sendgrid&utm_source=email
 https://official.fanbox.cc/posts/5103101
+```
+
+### [华为应用市场详细页转下载直链](tarnhelm://rule?regex=eyJhIjoi5Y2O5Li65bqU55So5biC5Zy66K%2Bm5oOF6aG16L2s5LiL6L296ZO%2B5o6lIiwiYiI6WyJhcHBnYWxsZXJ5Lmh1YXdlaS5jb21cL2FwcCIsIlxcPy4qIl0sImMiOlsiYXBwZ2FsbGVyeS5jbG91ZC5odWF3ZWkuY29tXC9hcHBkbCIsIiJdLCJkIjoiUGlhbkNhdCJ9)
+
+```
+正则：
+    appgallery.huawei.com/app/
+    \?.*
+替换：
+    appgallery.huawei.com/appdl
+    
+作者：PianCat
+https://appgallery.huawei.com/app/C100137037?sharePrepath=ag&locale=zh_CN&source=appshare&subsource=C100137037&shareTo=copylink&shareFrom=appmarket&shareIds=b46eba24cf2f4807950fce4b0e129bf3_8&callType=SHARE
+https://appgallery.cloud.huawei.com/appdl/C100137037
+```
+
+### [Instagram/Threads](tarnhelm://rule?regex=eyJhIjoiVGhyZWFkcy5uZXQiLCJiIjpbIlxcP2lnc2hpZD0uKiJdLCJjIjpbIiJdLCJkIjoiZ2Nud20ifQ%3D%3D)
+
+```
+正则：
+    \?igshid=.*
+替换：
+    
+作者：Zois
+https://www.threads.net/t/CuWKGXPv_n4/?igshid=
+https://www.threads.net/t/CuWKGXPv_n4/
 ```
 
 ### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw%2FLioiLCJwcm9kdWN0XC8iXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
@@ -427,6 +464,20 @@ https://share.api.weibo.cn/share/0,4838040630203665.html?weibo_id=48380406302036
 https://m.weibo.cn/status/4838040630203665
 ```
 
+### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcyk6XC9cL3hoc2xpbmsuY29tIiwiKGh0dHBzOlwvXC94aHNsaW5rLmNvbVwvKShcXHcqKe%2B8jCJdLCJjIjpbImh0dHBzOlwvXC94aHNsaW5rLmNvbSIsIiQxJDIg77yMIl0sImQiOiJsejIzMyJ9)
+
+```
+正则：
+    (http|https)://xhslink.com
+    (https://xhslink.com/)(\w*)，
+替换：
+    https://xhslink.com
+    $1$2 ，
+作者：lz233
+66 四维的旅行日记发布了一篇小红书笔记，快来看吧！ 😆 peAMH4Qvxm7IWc2 😆 http://xhslink.com/EuSrvu，复制本条信息，打开【小红书】App查看精彩内容！
+98 四维的旅行日记发布了一篇小红书笔记，快来看吧！ 😆 LiP6c7pSEM5E77m 😆 https://xhslink.com/DLXrvu ，复制本条信息，打开【小红书】App查看精彩内容！
+```
+
 ### [YouTube Mobile](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBNb2JpbGUiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wveW91dHUuYmVcLyJdLCJjIjpbImh0dHBzOlwvXC95b3V0dWJlLmNvbVwvd2F0Y2hcXD92PSJdLCJkIjoib3VzNTAifQ%3D%3D)
 
 ```
@@ -437,41 +488,4 @@ https://m.weibo.cn/status/4838040630203665
 作者：ous50
 https://youtu.be/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
-```
-
-### [华为应用市场详细页转下载直链](tarnhelm://rule?regex=eyJhIjoi5Y2O5Li65bqU55So5biC5Zy66K%2Bm5oOF6aG16L2s5LiL6L296ZO%2B5o6lIiwiYiI6WyJhcHBnYWxsZXJ5Lmh1YXdlaS5jb21cL2FwcCIsIlxcPy4qIl0sImMiOlsiYXBwZ2FsbGVyeS5jbG91ZC5odWF3ZWkuY29tXC9hcHBkbCIsIiJdLCJkIjoiUGlhbkNhdCJ9)
-
-```
-正则：
-    appgallery.huawei.com/app/
-    \?.*
-替换：
-    appgallery.huawei.com/appdl
-    
-作者：PianCat
-https://appgallery.huawei.com/app/C100137037?sharePrepath=ag&locale=zh_CN&source=appshare&subsource=C100137037&shareTo=copylink&shareFrom=appmarket&shareIds=b46eba24cf2f4807950fce4b0e129bf3_8&callType=SHARE
-https://appgallery.cloud.huawei.com/appdl/C100137037
-```
-
-### [Instagram/Threads](tarnhelm://rule?regex=eyJhIjoiVGhyZWFkcy5uZXQiLCJiIjpbIlxcP2lnc2hpZD0uKiJdLCJjIjpbIiJdLCJkIjoiZ2Nud20ifQ%3D%3D)
-
-```
-正则：
-    \?igshid=.*
-替换：
-    
-作者：Zois
-https://www.threads.net/t/CuWKGXPv_n4/?igshid=
-https://www.threads.net/t/CuWKGXPv_n4/
-```
-
-### [微店分享](tarnhelm://rule?regex=eyJhIjoi5b6u5bqXIiwiZSI6ImsueW91c2hvcDEwLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJraXJpdG8ifQ%3D%3D)
-
-```
-域名：k.youshop10.com
-模式：白名单
-参数：
-作者：kirito
-https://k.youshop10.com/atHaOQyq?share_relation=&a=&wfr=
-https://k.youshop10.com/atHaOQyq
 ```
