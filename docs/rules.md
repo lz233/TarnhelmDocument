@@ -254,7 +254,7 @@ https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a34770
 https://mp.weixin.qq.com/s?__biz=MjM5OTY2MzgzNQ==&mid=2247507482&idx=1&sn=a347701b1b4e6642dcbb317035153bbb
 ```
 
-### [微店分享](tarnhelm://rule?regex=eyJhIjoi5b6u5bqXIiwiZSI6ImsueW91c2hvcDEwLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJraXJpdG8ifQ%3D%3D)
+### [微店分享](tarnhelm://rule?parameter=eyJhIjoi5b6u5bqXIiwiZSI6ImsueW91c2hvcDEwLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJraXJpdG8ifQ%3D%3D)
 
 ```
 域名：k.youshop10.com
