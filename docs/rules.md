@@ -489,3 +489,31 @@ https://m.weibo.cn/status/4838040630203665
 https://youtu.be/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
 ```
+
+### [YouTube NormalLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBOb3JtYWxMaW5rIiwiYiI6WyIoaHR0cHM%2FOlwvXC8pKHd3d1xcLik%2FKHlvdXR1YmVcXC5jb20pKFwvd2F0Y2hcXD92PVthLXpBLVowLTlfLV0rKShcXD9zaT1bQS1aYS16MC05Xy1dKykiXSwiYyI6WyIkMSQyJDMkNCJdLCJkIjoiSGluYXRhS2F0byJ9)
+
+```
+正则：
+    (https?://)(www\.)?(youtube\.com)(/watch\?v=[a-zA-Z0-9_-]+)(\?si=[A-Za-z0-9_-]+)
+替换：
+    $1$2$3$4
+作者：HinataKato
+https://youtube.com/watch?v=a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+http://www.youtube.com/watch?v=a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+https://youtube.com/watch?v=a-rWPzGrLHk
+http://www.youtube.com/watch?v=a-rWPzGrLHk
+```
+
+### [YouTube ShortLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBTaG9ydExpbmsiLCJiIjpbIihodHRwcz86XC9cLykod3d3XFwuKT8oeW91dHVcXC5iZSkoXC9bQS1aYS16MC05Xy1dKykoXFw%2Fc2k9W0EtWmEtejAtOV8tXSspIl0sImMiOlsiJDEkMiQzJDQiXSwiZCI6IkhpbmF0YUthdG8ifQ%3D%3D)
+
+```
+正则：
+    (https?://)(www\.)?(youtu\.be)(/[A-Za-z0-9_-]+)(\?si=[A-Za-z0-9_-]+)
+替换：
+    $1$2$3$4
+作者：HinataKato
+https://youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+http://www.youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+https://youtu.be/a-rWPzGrLHk
+http://www.youtu.be/a-rWPzGrLHk
+```
