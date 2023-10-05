@@ -478,7 +478,9 @@ https://m.weibo.cn/status/4838040630203665
 98 四维的旅行日记发布了一篇小红书笔记，快来看吧！ 😆 LiP6c7pSEM5E77m 😆 https://xhslink.com/DLXrvu ，复制本条信息，打开【小红书】App查看精彩内容！
 ```
 
-### [YouTube Mobile](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBNb2JpbGUiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wveW91dHUuYmVcLyJdLCJjIjpbImh0dHBzOlwvXC95b3V0dWJlLmNvbVwvd2F0Y2hcXD92PSJdLCJkIjoib3VzNTAifQ%3D%3D)
+### Youtube
+
+#### [Mobile](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBNb2JpbGUiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wveW91dHUuYmVcLyJdLCJjIjpbImh0dHBzOlwvXC95b3V0dWJlLmNvbVwvd2F0Y2hcXD92PSJdLCJkIjoib3VzNTAifQ%3D%3D)
 
 ```
 正则：
@@ -490,7 +492,7 @@ https://youtu.be/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
 ```
 
-### [YouTube NormalLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBOb3JtYWxMaW5rIiwiYiI6WyIoaHR0cHM%2FOlwvXC8pKHd3d1xcLik%2FKHlvdXR1YmVcXC5jb20pKFwvd2F0Y2hcXD92PVthLXpBLVowLTlfLV0rKShcXD9zaT1bQS1aYS16MC05Xy1dKykiXSwiYyI6WyIkMSQyJDMkNCJdLCJkIjoiSGluYXRhS2F0byJ9)
+#### [NormalLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBOb3JtYWxMaW5rIiwiYiI6WyIoaHR0cHM%2FOlwvXC8pKHd3d1xcLik%2FKHlvdXR1YmVcXC5jb20pKFwvd2F0Y2hcXD92PVthLXpBLVowLTlfLV0rKShcXD9zaT1bQS1aYS16MC05Xy1dKykiXSwiYyI6WyIkMSQyJDMkNCJdLCJkIjoiSGluYXRhS2F0byJ9)
 
 ```
 正则：
@@ -504,7 +506,7 @@ https://youtube.com/watch?v=a-rWPzGrLHk
 http://www.youtube.com/watch?v=a-rWPzGrLHk
 ```
 
-### [YouTube ShortLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBTaG9ydExpbmsiLCJiIjpbIihodHRwcz86XC9cLykod3d3XFwuKT8oeW91dHVcXC5iZSkoXC9bQS1aYS16MC05Xy1dKykoXFw%2Fc2k9W0EtWmEtejAtOV8tXSspIl0sImMiOlsiJDEkMiQzJDQiXSwiZCI6IkhpbmF0YUthdG8ifQ%3D%3D)
+#### [ShortLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBTaG9ydExpbmsiLCJiIjpbIihodHRwcz86XC9cLykod3d3XFwuKT8oeW91dHVcXC5iZSkoXC9bQS1aYS16MC05Xy1dKykoXFw%2Fc2k9W0EtWmEtejAtOV8tXSspIl0sImMiOlsiJDEkMiQzJDQiXSwiZCI6IkhpbmF0YUthdG8ifQ%3D%3D)
 
 ```
 正则：
