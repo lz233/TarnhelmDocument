@@ -464,15 +464,15 @@ https://share.api.weibo.cn/share/0,4838040630203665.html?weibo_id=48380406302036
 https://m.weibo.cn/status/4838040630203665
 ```
 
-### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcyk6XC9cL3hoc2xpbmsuY29tIiwiKGh0dHBzOlwvXC94aHNsaW5rLmNvbVwvKShcXHcqKe%2B8jCJdLCJjIjpbImh0dHBzOlwvXC94aHNsaW5rLmNvbSIsIiQxJDIg77yMIl0sImQiOiJsejIzMyJ9)
+### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcykoOlwvXC94aHNsaW5rLmNvbVxcdyopIiwiKFwvLiopIl0sImMiOlsiaHR0cHMkMiIsIiQxICJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
 正则：
-    (http|https)://xhslink.com
-    (https://xhslink.com/)(\w*)，
+    (http|https)(://xhslink.com\w*)
+    (/.*)，
 替换：
-    https://xhslink.com
-    $1$2 ，
+    https$2
+    $1 ，
 作者：lz233
 66 四维的旅行日记发布了一篇小红书笔记，快来看吧！ 😆 peAMH4Qvxm7IWc2 😆 http://xhslink.com/EuSrvu，复制本条信息，打开【小红书】App查看精彩内容！
 98 四维的旅行日记发布了一篇小红书笔记，快来看吧！ 😆 LiP6c7pSEM5E77m 😆 https://xhslink.com/DLXrvu ，复制本条信息，打开【小红书】App查看精彩内容！
