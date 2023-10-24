@@ -276,6 +276,17 @@ https://www.xiaohongshu.com/discovery/item/63df94a9000000001d01eeee?app_platform
 https://www.xiaohongshu.com/discovery/item/63df94a9000000001d01eeee
 ```
 
+### [知乎](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmOIiwiZSI6Ind3dy56aGlodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibHoyMzMifQ%3D%3D)
+
+```
+域名：www.zhihu.com
+模式：白名单
+参数：
+作者：lz233
+https://www.zhihu.com/question/621886958/answer/3223202218?utm_psn=
+https://www.zhihu.com/question/621886958/answer/3223202218
+```
+
 ### [作业帮](tarnhelm://rule?parameter=eyJhIjoi5L2c5Lia5biuIiwiZSI6InBsYXQtbWluaWFwcC56dW95ZWJhbmcuY29tIiwiZiI6MCwiZyI6WyJjdWlkIiwiaXNoaXQiXSwiZCI6Im9tZy14dGFvIn0=)
 
 ```
