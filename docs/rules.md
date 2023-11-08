@@ -289,12 +289,12 @@ https://www.youtube.com/watch?v=U6RTLTPy6qA&list=TLPQMDgxMTIwP_0rIqopMbPg&index=
 https://www.youtube.com/watch?v=U6RTLTPy6qA
 ```
 
-#### [分享短链](tarnhelm://rule?parameter=eyJhIjoiWW91VHViZeWIhuS6q%2BefremTviIsImUiOiJ5b3V0dS5iZSIsImYiOjAsImciOlsidiJdLCJkIjoiTW9uc2V5ICJ9)
+#### [分享短链](tarnhelm://rule?parameter=eyJhIjoiWW91VHViZeWIhuS6q%2BefremTviIsImUiOiJ5b3V0dS5iZSIsImYiOjAsImciOlsiIl0sImQiOiJNb25zZXkgIn0%3D)
 
 ```
 域名：youtu.be
 模式：白名单
-参数：v
+参数：
 作者：Mosney
 https://youtu.be/-qqWAo9mpP4?si=jbxjumk4kQ
 https://youtu.be/-qqWAo9mpP4
