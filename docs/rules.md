@@ -66,21 +66,6 @@ https://space.bilibili.com/1265680561?share_medium=&share_source=&bbid=&ts=
 https://space.bilibili.com/1265680561
 ```
 
-#### [视频分享](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp6KeG6aKR5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbInNoYXJlX21lZGl1bSIsInNoYXJlX3NvdXJjZSIsImJiaWQiLCJ0cyJdLCJkIjoibGl0dGxlZjB4In0%3D)
-
-```
-域名：www.bilibili.com
-模式：黑名单
-参数：
-    share_medium
-    share_source
-    bbid
-    ts
-作者：littlef0x
-https://www.bilibili.com/video/BV1xS4y1H7UL?share_medium=&share_source=&bbid=&ts=
-https://www.bilibili.com/video/BV1xS4y1H7UL
-```
-
 #### [预约分享](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9)
 
 ```
@@ -340,6 +325,22 @@ https://www.amazon.co.jp/モンスター-アサヒ飲料-エナジー-355ml×24�
 https://www.amazon.co.jp/dp/B007V6MQJY
 ```
 
+### 哔哩哔哩
+
+#### [视频分享](tarnhelm://rule?regex=eyJhIjoi5ZOU5ZOp5ZOU5ZOp6KeG6aKR5YiG5LqrIiwiYiI6WyIoaHR0cHxodHRwcyk6XC9cLyhtfHd3dykqLj9iaWxpYmlsaS5jb21cL3ZpZGVvIiwiXFw%2FLioiXSwiYyI6WyJodHRwczpcL1wvd3d3LmJpbGliaWxpLmNvbVwvdmlkZW8iLCIiXSwiZCI6Imx6MjMzIn0%3D)
+
+```
+正则：
+    (http|https)://(m|www)*.?bilibili.com/video
+    \?.*
+替换：
+    https://www.bilibili.com/video
+    
+作者：lz233
+https://www.bilibili.com/video/BV1Ap4y18751/?p=&spm_id_from=&vd_source=
+https://www.bilibili.com/video/BV1Ap4y18751
+```
+
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
 
 ```
@@ -553,4 +554,15 @@ https://youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
 http://www.youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
 https://youtu.be/a-rWPzGrLHk
 http://www.youtu.be/a-rWPzGrLHk
+```
+
+## 重定向规则
+
+### [哔哩哔哩](tarnhelm://rule?redirect=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiZSI6ImIyMy50diIsImQiOiJsejIzMyJ9)
+
+```
+域名：b23.tv
+作者：lz233
+https://b23.tv/UtWjqWJ
+https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid=&p=&plat_id=&share_from=&share_medium=&share_plat=&share_session_id=&share_source=&share_tag=&spmid=&timestamp=&unique_k=&up_id=&vd_source=
 ```
