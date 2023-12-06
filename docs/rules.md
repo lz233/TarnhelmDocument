@@ -167,6 +167,17 @@ https://static-play.kg.qq.com/node/fF4a3J7LZP/play_v2?s=xxxxxx&shareuid=xxxxxx&a
 https://static-play.kg.qq.com/node/fF4a3J7LZP/play_v2?s=xxxxxx
 ```
 
+### [Reddit](tarnhelm://rule?parameter=eyJhIjoiUmVkZGl0IiwiZSI6Ind3dy5yZWRkaXQuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IkRyZWlzdGEifQ%3D%3D)
+
+```
+域名：www.reddit.com
+模式：白名单
+参数：
+作者：Dreista
+https://www.reddit.com/r/rarekumikos/comments/y6s30c/ponytail_kumiko/?utm_source=&utm_medium=&utm_name=&utm_term=&utm_content=
+https://www.reddit.com/r/rarekumikos/comments/y6s30c/ponytail_kumiko/
+```
+
 ### [Spotify](tarnhelm://rule?parameter=eyJhIjoiU3BvdGlmeSIsImUiOiJvcGVuLnNwb3RpZnkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
@@ -565,4 +576,13 @@ http://www.youtu.be/a-rWPzGrLHk
 作者：lz233
 https://b23.tv/UtWjqWJ
 https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid=&p=&plat_id=&share_from=&share_medium=&share_plat=&share_session_id=&share_source=&share_tag=&spmid=&timestamp=&unique_k=&up_id=&vd_source=
+```
+
+### [Reddit](tarnhelm://rule?redirect=eyJhIjoiUmVkZGl0IiwiZSI6Ind3dy5yZWRkaXQuY29tIiwiZCI6IkRyZWlzdGEifQ%3D%3D)
+
+```
+域名：www.reddit.com
+作者：Dreista
+https://www.reddit.com/r/rarekumikos/s/xxxxxxxxxx
+https://www.reddit.com/r/rarekumikos/comments/15wxj3u/maid_kumiko/?share_id=xxxxxxxxxxxxxxxxxxxxx
 ```
