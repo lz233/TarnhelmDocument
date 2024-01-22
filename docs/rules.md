@@ -436,7 +436,9 @@ https://post.m.smzdm.com/talk/p/(ID)/
 https://post.m.smzdm.com/p/(ID)/
 ```
 
-### [Twitter/X](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC92eHR3aXR0ZXIuY29tIiwiIl0sImQiOiJsejIzMyJ9)
+### Twitter
+
+#### [vxtwitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC92eHR3aXR0ZXIuY29tIiwiIl0sImQiOiJsejIzMyJ9)
 
 ```
 正则：
@@ -448,6 +450,20 @@ https://post.m.smzdm.com/p/(ID)/
 作者：lz233
 https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://vxtwitter.com/mariotaku/status/496733277274013696
+```
+
+#### [fxtwitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiaHR0cHM%2FOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC9meHR3aXR0ZXIuY29tIiwiIl0sImQiOiJxcnFyIn0%3D)
+
+```
+正则：
+    https?://(twitter|x).com
+    \?.*
+替换：
+    https://fxtwitter.com
+    
+作者：qrqr
+https://twitter.com/mariotaku/status/496733277274013696?t=&s=
+https://fxtwitter.com/mariotaku/status/496733277274013696
 ```
 
 ### [微博轻享版 Weibo intl.](tarnhelm://rule?regex=eyJhIjoi5b6u5Y2a6L275Lqr54mI5YiG5Lqr6ZO%2B5o6l6L2s5o2iIiwiYiI6WyJzaGFyZS5hcGkud2VpYm8uY24iLCJzaGFyZVwvW14lXSood2VpYm9faWQ9KSJdLCJjIjpbIm0ud2VpYm8uY24iLCJzdGF0dXNcLyJdLCJkIjoi5LiJ5rO9In0%3D)
