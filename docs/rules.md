@@ -110,6 +110,17 @@ https://www.dlsite.com/soft/work/=/product_id/VJ014866.html/?utm_medium=affiliat
 https://www.dlsite.com/soft/work/=/product_id/VJ014866.html
 ```
 
+### [豆瓣](tarnhelm://rule?parameter=eyJhIjoi6LGG55OjIiwiZSI6Ind3dy5kb3ViYW4uY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IkNoZWxseUwifQ%3D%3D)
+
+```
+域名：www.douban.com
+模式：白名单
+参数：
+作者：ChellyL
+https://www.douban.com/group/topic/295333696/?_i=6528069zlyAWJC
+https://www.douban.com/group/topic/295333696/
+```
+
 ### [恩山无线论坛](tarnhelm://rule?parameter=eyJhIjoi5oGp5bGx5peg57q%2F6K665Z2bIiwiZSI6Ind3dy5yaWdodC5jb20uY24iLCJmIjoxLCJnIjpbImF1dGhvcmlkIiwiZXh0cmEiXSwiZCI6Im91czUwICJ9)
 
 ```
