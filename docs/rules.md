@@ -2,7 +2,7 @@
 
 在这里可以寻找你想要的规则，请善用页面内查找功能。
 
-已安装应用的情况下点击超链接即可完成规则的导入。导入前请确保使用较新版本的客户端。
+已安装应用的情况下点击超链接（规则标题）即可完成规则的导入。导入前请确保使用较新版本的客户端。
 
 你可以通过提交 PR 到[这个文件](https://github.com/lz233/TarnhelmDocument/blob/main/docs/rules.md)帮助我们完善规则。贡献过程中，请注意格式和按照拼音首字母排序。
 
@@ -66,21 +66,6 @@ https://space.bilibili.com/1265680561?share_medium=&share_source=&bbid=&ts=
 https://space.bilibili.com/1265680561
 ```
 
-#### [视频分享](tarnhelm://rule?parameter=eyJhIjoi5ZOU5ZOp5ZOU5ZOp6KeG6aKR5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbInNoYXJlX21lZGl1bSIsInNoYXJlX3NvdXJjZSIsImJiaWQiLCJ0cyJdLCJkIjoibGl0dGxlZjB4In0%3D)
-
-```
-域名：www.bilibili.com
-模式：黑名单
-参数：
-    share_medium
-    share_source
-    bbid
-    ts
-作者：littlef0x
-https://www.bilibili.com/video/BV1xS4y1H7UL?share_medium=&share_source=&bbid=&ts=
-https://www.bilibili.com/video/BV1xS4y1H7UL
-```
-
 #### [预约分享](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9)
 
 ```
@@ -123,6 +108,17 @@ https://www.disneyplus.com/series/money-makes-the-world-go-round/14BIEgqbPnKP
 作者：MateChan
 https://www.dlsite.com/soft/work/=/product_id/VJ014866.html/?utm_medium=affiliate&utm_campaign=work_link&utm_content=VJ014866&utm_source=none
 https://www.dlsite.com/soft/work/=/product_id/VJ014866.html
+```
+
+### [豆瓣](tarnhelm://rule?parameter=eyJhIjoi6LGG55OjIiwiZSI6Ind3dy5kb3ViYW4uY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IkNoZWxseUwifQ%3D%3D)
+
+```
+域名：www.douban.com
+模式：白名单
+参数：
+作者：ChellyL
+https://www.douban.com/group/topic/295333696/?_i=6528069zlyAWJC
+https://www.douban.com/group/topic/295333696/
 ```
 
 ### [恩山无线论坛](tarnhelm://rule?parameter=eyJhIjoi5oGp5bGx5peg57q%2F6K665Z2bIiwiZSI6Ind3dy5yaWdodC5jb20uY24iLCJmIjoxLCJnIjpbImF1dGhvcmlkIiwiZXh0cmEiXSwiZCI6Im91czUwICJ9)
@@ -180,6 +176,17 @@ https://qun.qq.com/qqweb/qunpro/share?inviteCode=2dsmVd
 作者：青墨
 https://static-play.kg.qq.com/node/fF4a3J7LZP/play_v2?s=xxxxxx&shareuid=xxxxxx&abtype=13&shareDescABType=4&topsource=xxxxxx&pageId=poplayer
 https://static-play.kg.qq.com/node/fF4a3J7LZP/play_v2?s=xxxxxx
+```
+
+### [Reddit](tarnhelm://rule?parameter=eyJhIjoiUmVkZGl0IiwiZSI6Ind3dy5yZWRkaXQuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6IkRyZWlzdGEifQ%3D%3D)
+
+```
+域名：www.reddit.com
+模式：白名单
+参数：
+作者：Dreista
+https://www.reddit.com/r/rarekumikos/comments/y6s30c/ponytail_kumiko/?utm_source=&utm_medium=&utm_name=&utm_term=&utm_content=
+https://www.reddit.com/r/rarekumikos/comments/y6s30c/ponytail_kumiko/
 ```
 
 ### [Spotify](tarnhelm://rule?parameter=eyJhIjoiU3BvdGlmeSIsImUiOiJvcGVuLnNwb3RpZnkuY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Imx6MjMzIn0%3D)
@@ -276,6 +283,41 @@ https://www.xiaohongshu.com/discovery/item/63df94a9000000001d01eeee?app_platform
 https://www.xiaohongshu.com/discovery/item/63df94a9000000001d01eeee
 ```
 
+### YouTube
+
+#### [一般链接](tarnhelm://rule?parameter=eyJhIjoiWW91VHViZeS4gOiIrOmTvuaOpSIsImUiOiJ3d3cueW91dHViZS5jb20iLCJmIjowLCJnIjpbInYiXSwiZCI6Ik1vc25leSJ9)
+
+```
+域名：www.youtube.com
+模式：白名单
+参数：v
+作者：Mosney
+https://www.youtube.com/watch?v=U6RTLTPy6qA&list=TLPQMDgxMTIwP_0rIqopMbPg&index=2
+https://www.youtube.com/watch?v=U6RTLTPy6qA
+```
+
+#### [分享短链](tarnhelm://rule?parameter=eyJhIjoiWW91VHViZeWIhuS6q%2BefremTviIsImUiOiJ5b3V0dS5iZSIsImYiOjAsImciOlsiIl0sImQiOiJNb25zZXkgIn0%3D)
+
+```
+域名：youtu.be
+模式：白名单
+参数：
+作者：Mosney
+https://youtu.be/-qqWAo9mpP4?si=jbxjumk4kQ
+https://youtu.be/-qqWAo9mpP4
+```
+
+### [知乎](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmOIiwiZSI6Ind3dy56aGlodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibHoyMzMifQ%3D%3D)
+
+```
+域名：www.zhihu.com
+模式：白名单
+参数：
+作者：lz233
+https://www.zhihu.com/question/621886958/answer/3223202218?utm_psn=
+https://www.zhihu.com/question/621886958/answer/3223202218
+```
+
 ### [作业帮](tarnhelm://rule?parameter=eyJhIjoi5L2c5Lia5biuIiwiZSI6InBsYXQtbWluaWFwcC56dW95ZWJhbmcuY29tIiwiZiI6MCwiZyI6WyJjdWlkIiwiaXNoaXQiXSwiZCI6Im9tZy14dGFvIn0=)
 
 ```
@@ -303,6 +345,22 @@ https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca00
 作者：MateChan
 https://www.amazon.co.jp/モンスター-アサヒ飲料-エナジー-355ml×24本/dp/B007V6MQJY/ref=mp_s_a_1_1?crid=1DO2L9OKB2SGH&keywords=魔剤&qid=1665554354&qu=eyJxc2MiOiIyLjAxIiwicXNhIjoiMS4zOSIsInFzcCI6IjEuNDQifQ==&sprefix=魔剤,aps,317&sr=8-1
 https://www.amazon.co.jp/dp/B007V6MQJY
+```
+
+### 哔哩哔哩
+
+#### [视频分享](tarnhelm://rule?regex=eyJhIjoi5ZOU5ZOp5ZOU5ZOp6KeG6aKR5YiG5LqrIiwiYiI6WyIoaHR0cHxodHRwcyk6XC9cLyhtfHd3dykqLj9iaWxpYmlsaS5jb21cL3ZpZGVvIiwiXFw%2FLioiXSwiYyI6WyJodHRwczpcL1wvd3d3LmJpbGliaWxpLmNvbVwvdmlkZW8iLCIiXSwiZCI6Imx6MjMzIn0%3D)
+
+```
+正则：
+    (http|https)://(m|www)*.?bilibili.com/video
+    \?.*
+替换：
+    https://www.bilibili.com/video
+    
+作者：lz233
+https://www.bilibili.com/video/BV1Ap4y18751/?p=&spm_id_from=&vd_source=
+https://www.bilibili.com/video/BV1Ap4y18751
 ```
 
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
@@ -480,21 +538,23 @@ https://share.api.weibo.cn/share/0,4838040630203665.html?weibo_id=48380406302036
 https://m.weibo.cn/status/4838040630203665
 ```
 
-### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcyk6XC9cL3hoc2xpbmsuY29tIiwiKGh0dHBzOlwvXC94aHNsaW5rLmNvbVwvKShcXHcqKe%2B8jCJdLCJjIjpbImh0dHBzOlwvXC94aHNsaW5rLmNvbSIsIiQxJDIg77yMIl0sImQiOiJsejIzMyJ9)
+### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcykoOlwvXC94aHNsaW5rLmNvbVxcdyopIiwiKFwvLiopIl0sImMiOlsiaHR0cHMkMiIsIiQxICJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
 正则：
-    (http|https)://xhslink.com
-    (https://xhslink.com/)(\w*)，
+    (http|https)(://xhslink.com\w*)
+    (/.*)，
 替换：
-    https://xhslink.com
-    $1$2 ，
+    https$2
+    $1 ，
 作者：lz233
 66 四维的旅行日记发布了一篇小红书笔记，快来看吧！ 😆 peAMH4Qvxm7IWc2 😆 http://xhslink.com/EuSrvu，复制本条信息，打开【小红书】App查看精彩内容！
 98 四维的旅行日记发布了一篇小红书笔记，快来看吧！ 😆 LiP6c7pSEM5E77m 😆 https://xhslink.com/DLXrvu ，复制本条信息，打开【小红书】App查看精彩内容！
 ```
 
-### [YouTube Mobile](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBNb2JpbGUiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wveW91dHUuYmVcLyJdLCJjIjpbImh0dHBzOlwvXC95b3V0dWJlLmNvbVwvd2F0Y2hcXD92PSJdLCJkIjoib3VzNTAifQ%3D%3D)
+### Youtube
+
+#### [Mobile](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBNb2JpbGUiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wveW91dHUuYmVcLyJdLCJjIjpbImh0dHBzOlwvXC95b3V0dWJlLmNvbVwvd2F0Y2hcXD92PSJdLCJkIjoib3VzNTAifQ%3D%3D)
 
 ```
 正则：
@@ -504,4 +564,52 @@ https://m.weibo.cn/status/4838040630203665
 作者：ous50
 https://youtu.be/watch?v=GtL1huin9EE
 https://www.youtube.com/watch?v=GtL1huin9EE
+```
+
+#### [NormalLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBOb3JtYWxMaW5rIiwiYiI6WyIoaHR0cHM%2FOlwvXC8pKHd3d1xcLik%2FKHlvdXR1YmVcXC5jb20pKFwvd2F0Y2hcXD92PVthLXpBLVowLTlfLV0rKShcXD9zaT1bQS1aYS16MC05Xy1dKykiXSwiYyI6WyIkMSQyJDMkNCJdLCJkIjoiSGluYXRhS2F0byJ9)
+
+```
+正则：
+    (https?://)(www\.)?(youtube\.com)(/watch\?v=[a-zA-Z0-9_-]+)(\?si=[A-Za-z0-9_-]+)
+替换：
+    $1$2$3$4
+作者：HinataKato
+https://youtube.com/watch?v=a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+http://www.youtube.com/watch?v=a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+https://youtube.com/watch?v=a-rWPzGrLHk
+http://www.youtube.com/watch?v=a-rWPzGrLHk
+```
+
+#### [ShortLink](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSBTaG9ydExpbmsiLCJiIjpbIihodHRwcz86XC9cLykod3d3XFwuKT8oeW91dHVcXC5iZSkoXC9bQS1aYS16MC05Xy1dKykoXFw%2Fc2k9W0EtWmEtejAtOV8tXSspIl0sImMiOlsiJDEkMiQzJDQiXSwiZCI6IkhpbmF0YUthdG8ifQ%3D%3D)
+
+```
+正则：
+    (https?://)(www\.)?(youtu\.be)(/[A-Za-z0-9_-]+)(\?si=[A-Za-z0-9_-]+)
+替换：
+    $1$2$3$4
+作者：HinataKato
+https://youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+http://www.youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+https://youtu.be/a-rWPzGrLHk
+http://www.youtu.be/a-rWPzGrLHk
+```
+
+## 重定向规则
+
+### [哔哩哔哩](tarnhelm://rule?redirect=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiZSI6ImIyMy50diIsImQiOiJsejIzMyJ9)
+
+```
+域名：b23.tv
+作者：lz233
+https://b23.tv/UtWjqWJ
+https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid=&p=&plat_id=&share_from=&share_medium=&share_plat=&share_session_id=&share_source=&share_tag=&spmid=&timestamp=&unique_k=&up_id=&vd_source=
+```
+
+### [Reddit](tarnhelm://rule?redirect=eyJhIjoiUmVkZGl0IiwiZSI6Ind3dy5yZWRkaXQuY29tIiwiZCI6IkRyZWlzdGEifQ%3D%3D)
+
+```
+域名：www.reddit.com
+作者：Dreista
+https://www.reddit.com/r/rarekumikos/s/xxxxxxxxxx
+https://www.reddit.com/r/rarekumikos/comments/15wxj3u/maid_kumiko/?share_id=xxxxxxxxxxxxxxxxxxxxx
 ```
