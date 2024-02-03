@@ -1,7 +1,9 @@
+import { viteBundler } from '@vuepress/bundler-vite'
+import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
-import { defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
+  bundler: viteBundler(),
   lang: 'zh-CN',
   title: 'Tarnhelm',
   head: [['link', { rel: 'icon', href: '/icon-color.png' }]],
