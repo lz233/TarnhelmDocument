@@ -307,7 +307,9 @@ https://youtu.be/-qqWAo9mpP4?si=jbxjumk4kQ
 https://youtu.be/-qqWAo9mpP4
 ```
 
-### [知乎](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmOIiwiZSI6Ind3dy56aGlodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibHoyMzMifQ%3D%3D)
+### 知乎
+
+#### [知乎](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmOIiwiZSI6Ind3dy56aGlodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
 域名：www.zhihu.com
@@ -316,6 +318,17 @@ https://youtu.be/-qqWAo9mpP4
 作者：lz233
 https://www.zhihu.com/question/621886958/answer/3223202218?utm_psn=
 https://www.zhihu.com/question/621886958/answer/3223202218
+```
+
+#### [知乎文章](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmO5paH56ugIiwiZSI6InpodWFubGFuLnpoaWh1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJUQ09UQyJ9)
+
+```
+域名：zhuanlan.zhihu.com
+模式：白名单
+参数：
+作者：TCOTC
+https://zhuanlan.zhihu.com/p/661689603?utm_psn=
+https://zhuanlan.zhihu.com/p/661689603
 ```
 
 ### [作业帮](tarnhelm://rule?parameter=eyJhIjoi5L2c5Lia5biuIiwiZSI6InBsYXQtbWluaWFwcC56dW95ZWJhbmcuY29tIiwiZiI6MCwiZyI6WyJjdWlkIiwiaXNoaXQiXSwiZCI6Im9tZy14dGFvIn0=)
