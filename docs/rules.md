@@ -156,6 +156,19 @@ https://www.netflix.com/tw/title/81565554?s=&trkid=&t=&vlang=&clip=
 https://www.netflix.com/tw/title/81565554
 ```
 
+### [QQ 空间 (h5)](tarnhelm://rule?parameter=eyJhIjoiaDUgUVEg56m66Ze0IiwiZSI6Img1LnF6b25lLnFxLmNvbSIsImYiOjAsImciOlsic2hhcmV0YWciLCJhcHBpZCJdLCJkIjoiUFJPLTI2ODQifQ%3D%3D)
+
+```
+域名：h5.qzone.qq.com
+模式：白名单
+参数：
+    sharetag
+    appid
+作者：PRO-2684
+https://h5.qzone.qq.com/ugc/share/?sharetag=&loginfrom=&jumptoqzone=&subtype=&ciphertext=&blog_photo=&g=&res_uin=&cellid=&subid=&bp1=&bp2=&bp7=&appid=&g_f=
+https://h5.qzone.qq.com/ugc/share/?sharetag=&appid=
+```
+
 ### [QQ 频道](tarnhelm://rule?parameter=eyJhIjoiUVEg6aKR6YGTIiwiZSI6InF1bi5xcS5jb20iLCJmIjowLCJnIjpbImludml0ZUNvZGUiXSwiZCI6IumdkuWiqCJ9)
 
 ```
@@ -487,6 +500,18 @@ https://mobile.yangkeduo.com/pincard_ask.html?__rp_name=brand_amazing_price_grou
 作者：lz233
 https://www.pixiv.net/artworks/77096628#5
 https://pixiv.re/77096628-5.png
+```
+
+### [QQ 空间外链 (urlshare.cn)](tarnhelm://rule?parameter=eyJhIjoiUVEg56m66Ze05YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJodHRwcz86XFxcL1xcXC93d3dcXC51cmxzaGFyZVxcLmNuXFxcLyguKiYpP3VybD0oW14mXSspLioiXSwiYyI6WyIkMiJdLCJkIjoiUFJPIn0%3D)
+
+```
+正则：
+    https?:\/\/www\.urlshare\.cn\/(.*&)?url=([^&]+).*
+替换：
+    $2
+作者：PRO-2684
+https://www.urlshare.cn/umirror_url_check?_wv=&srctype=&apptype=&loginuin=&plateform=&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoMHMpa_TojNGMqWSCzh9Zw&src_uin=&src_scene=&cli_scene=
+https://mp.weixin.qq.com/s/oMHMpa_TojNGMqWSCzh9Zw
 ```
 
 ### [什么值得买](tarnhelm://rule?regex=eyJhIjoi5LuA5LmI5YC85b6X5LmwIiwiYiI6WyIoaHR0cHM6XC9cL3Rlc3Quc216ZG0uY29tXC9wXC9cXGQrKShcXD8uKil8KGh0dHBzOlwvXC8uKlxcLnNtemRtXFwuY29tXC8uKlwvKSguKikiXSwiYyI6WyIkMSQzIl0sImQiOiJIaW5hdGFLYXRvIn0%3D)
