@@ -632,6 +632,20 @@ https://youtu.be/a-rWPzGrLHk
 http://www.youtu.be/a-rWPzGrLHk
 ```
 
+### [知乎关怀版](tarnhelm://rule?redirect=eyJhIjoi55%2Bl5LmO5YWz5oCA54mIIiwiYiI6WyJ3d3cuemhpaHUuY29tXC9xdWVzdGlvbiIsIlxcPy4qIl0sImMiOlsid3d3LnpoaWh1LmNvbVwvYXJpYVwvcXVlc3Rpb24iXSwiZCI6IkJpbmdvS2luZ28ifQ%3D%3D)
+
+```
+正则：
+    www.zhihu.com/question
+    \?.*
+替换：
+    www.zhihu.com/aria/question
+
+作者：BingoKingo
+https://www.zhihu.com/question/621886958/answer/3223202218
+https://www.zhihu.com/aria/question/621886958/answer/3223202218
+```
+
 ## 重定向规则
 
 ### [哔哩哔哩](tarnhelm://rule?redirect=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiZSI6ImIyMy50diIsImQiOiJsejIzMyJ9)
