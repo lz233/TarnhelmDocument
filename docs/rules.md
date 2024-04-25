@@ -389,6 +389,17 @@ https://www.bilibili.com/video/BV1Ap4y18751/?p=&spm_id_from=&vd_source=
 https://www.bilibili.com/video/BV1Ap4y18751
 ```
 
+#### [哔哩哔哩手机版动态分享](tarnhelm://rule?regex=eyJhIjoi5ZOU5ZOp5ZOU5ZOp5omL5py654mI5Yqo5oCB5YiG5LqrIiwiYiI6WyJ3d3cuYmlsaWJpbGkuY29tXC9vcHVzIl0sImMiOlsibS5iaWxpYmlsaS5jb21cL2R5bmFtaWMiXSwiZCI6IkZUUmVleSJ9)
+```
+正则：
+     m.bilibili.com/dynamic
+替换：
+     www.bilibili.com/opus
+作者：FTReey
+https://m.bilibili.com/dynamic/xxxxxxx
+https://www.bilibili.com/opus/xxxxxxxx
+```
+
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
 
 ```
