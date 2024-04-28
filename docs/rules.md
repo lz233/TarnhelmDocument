@@ -585,6 +585,16 @@ https://vxtwitter.com/mariotaku/status/496733277274013696
 https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://fxtwitter.com/mariotaku/status/496733277274013696
 ```
+#### [Twitter UID链接优化](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciBVSUTpk77mjqXkvJjljJYiLCJiIjpbInR3aXR0ZXIuY29tXC9pXC91c2VyXC8iXSwiYyI6WyJ0d2l0dGVyLmNvbVwvaW50ZW50XC91c2VyP3VzZXJfaWQ9Il0sImQiOiJGVFJlZXkifQ%3D%3D)
+```
+正则：
+    twitter.com/i/user/
+替换：
+    twitter.com/intent/user?user_id=
+作者：qrqr
+https://twitter.com/intent/user?user_id=xxx
+https://twitter.com/intent/user?user_id=xxx
+```
 
 ### 微博
 
