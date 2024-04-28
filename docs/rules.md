@@ -586,6 +586,20 @@ https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://fxtwitter.com/mariotaku/status/496733277274013696
 ```
 
+#### [Twitter UID链接优化](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciBVSUTpk77mjqXkvJjljJYiLCJiIjpbInR3aXR0ZXIuY29tXC9pXC91c2VyXC8iXSwiYyI6WyJ0d2l0dGVyLmNvbVwvaW50ZW50XC91c2VyP3VzZXJfaWQ9Il0sImQiOiJGVFJlZXkifQ%3D%3D)
+```
+正则：
+    twitter.com/i/user/
+替换：
+    twitter.com/intent/user?user_id=
+作者：FTReey
+https://twitter.com/i/user/xxx
+https://twitter.com/intent/user?user_id=xxx
+
+开启后移动端应用才能正确识别twitter.com/i/链接
+我也不知道为什么这么割裂，但它就是这样
+```
+
 ### 微博
 
 #### [轻享版 Weibo intl.](tarnhelm://rule?regex=eyJhIjoi5b6u5Y2a6L275Lqr54mI5YiG5Lqr6ZO%2B5o6l6L2s5o2iIiwiYiI6WyJzaGFyZS5hcGkud2VpYm8uY24iLCJzaGFyZVwvW14lXSood2VpYm9faWQ9KSJdLCJjIjpbIm0ud2VpYm8uY24iLCJzdGF0dXNcLyJdLCJkIjoi5LiJ5rO9In0%3D)
