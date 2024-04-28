@@ -389,15 +389,16 @@ https://www.bilibili.com/video/BV1Ap4y18751/?p=&spm_id_from=&vd_source=
 https://www.bilibili.com/video/BV1Ap4y18751
 ```
 
-#### [哔哩哔哩手机版动态分享](tarnhelm://rule?regex=eyJhIjoi5ZOU5ZOp5ZOU5ZOp5omL5py654mI5Yqo5oCB5YiG5LqrIiwiYiI6WyJ3d3cuYmlsaWJpbGkuY29tXC9vcHVzIl0sImMiOlsibS5iaWxpYmlsaS5jb21cL2R5bmFtaWMiXSwiZCI6IkZUUmVleSJ9)
+#### [哔哩哔哩手机版动态分享](tarnhelm://rule?regex=eyJhIjoi5ZOU5ZOp5ZOU5ZOp5omL5py654mI5Yqo5oCB5YiG5LqrIiwiYiI6WyJtLmJpbGliaWxpLmNvbVwvZHluYW1pYyJdLCJjIjpbInQuYmlsaWJpbGkuY29tIl0sImQiOiJGVFJlZXkifQ%3D%3D)
+
 ```
 正则：
      m.bilibili.com/dynamic
 替换：
-     www.bilibili.com/opus
+     t.bilibili.com
 作者：FTReey
-https://m.bilibili.com/dynamic/xxxxxxx
-https://www.bilibili.com/opus/xxxxxxxx
+https://m.bilibili.com/dynamic/xxx
+https://t.bilibili.com/xxx
 ```
 
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
@@ -513,6 +514,18 @@ https://www.pixiv.net/artworks/77096628#5
 https://pixiv.re/77096628-5.png
 ```
 
+### [Pixiv长链接缩短](tarnhelm://rule?regex=eyJhIjoiUGl4aXbplb%2Fpk77mjqXnvKnnn60iLCJiIjpbIm1lbWJlcl9pbGx1c3QucGhwXFw%2FbW9kZT1tZWRpdW0maWxsdXN0X2lkPSJdLCJjIjpbImFydHdvcmtzXC8iXSwiZCI6IkZUUmVleSJ9)
+
+```
+正则：
+    member_illust.php\?mode=medium&illust_id=
+替换：
+    artworks/
+作者：FTReey
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=xxx
+https://www.pixiv.net/artworks/xxx
+```
+
 ### [QQ 空间外链 (urlshare.cn)](tarnhelm://rule?parameter=eyJhIjoiUVEg56m66Ze05YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJodHRwcz86XFxcL1xcXC93d3dcXC51cmxzaGFyZVxcLmNuXFxcLyguKiYpP3VybD0oW14mXSspLioiXSwiYyI6WyIkMiJdLCJkIjoiUFJPIn0%3D)
 
 ```
@@ -588,7 +601,7 @@ https://fxtwitter.com/mariotaku/status/496733277274013696
 https://share.api.weibo.cn/share/0,4838040630203665.html?weibo_id=4838040630203665
 https://m.weibo.cn/status/4838040630203665
 ```
-#### [移动端用户页分享链接](tarnhelm://rule?regex=eyJhIjoi56e75Yqo56uv5b6u5Y2a55So5oi36aG15YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJtLndlaWJvLmNuXC9wcm9maWxlIl0sImMiOlsid2VpYm8uY29tXC91Il0sImQiOiJGVFJlZXkifQ%3D%3D)
+#### [移动端微博用户页分享链接](tarnhelm://rule?regex=eyJhIjoi56e75Yqo56uv5b6u5Y2a55So5oi36aG15YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJtLndlaWJvLmNuXC9wcm9maWxlIl0sImMiOlsid2VpYm8uY29tXC91Il0sImQiOiJGVFJlZXkifQ%3D%3D)
 
 ```
 正则：
