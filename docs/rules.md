@@ -586,6 +586,17 @@ https://fxtwitter.com/mariotaku/status/496733277274013696
 https://share.api.weibo.cn/share/0,4838040630203665.html?weibo_id=4838040630203665
 https://m.weibo.cn/status/4838040630203665
 ```
+### [移动端微博用户页分享链接](tarnhelm://rule?regex=eyJhIjoi56e75Yqo56uv5b6u5Y2a55So5oi36aG15YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJtLndlaWJvLmNuXC9wcm9maWxlIl0sImMiOlsid2VpYm8uY29tXC91Il0sImQiOiJGVFJlZXkifQ%3D%3D)
+
+```
+正则：
+    m.weibo.cn/profile
+替换：
+    weibo.com/u
+作者：FTReey
+https://m.weibo.cn/profile/xxx
+https://weibo.com/u/xxx
+```
 
 ### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcykoOlwvXC94aHNsaW5rLmNvbVxcdyopIiwiKFwvLiopIl0sImMiOlsiaHR0cHMkMiIsIiQxICJdLCJkIjoibHoyMzMifQ%3D%3D)
 
