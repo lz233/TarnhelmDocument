@@ -526,6 +526,18 @@ https://www.pixiv.net/member_illust.php?mode=medium&illust_id=xxx
 https://www.pixiv.net/artworks/xxx
 ```
 
+### [Pixiv跳转到其他网站](tarnhelm://rule?regex=eyJhIjoiUGl4aXbot7PovazliLDlhbbku5bnvZHnq5kiLCJiIjpbIihodHRwcz86XC9cLykod3d3XFwuKT9waXhpdi5uZXRcL2p1bXAucGhwXFw%2FdXJsPSJdLCJjIjpbIiJdLCJkIjoiRlRSZWV5In0%3D)
+
+```
+正则：
+    (https?://)(www\.)?pixiv.net/jump.php\?url=
+替换:
+
+作者：FTReey
+https://www.pixiv.net/jump.php?url=xxx
+xxx
+```
+
 ### [QQ 空间外链 (urlshare.cn)](tarnhelm://rule?parameter=eyJhIjoiUVEg56m66Ze05YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJodHRwcz86XFxcL1xcXC93d3dcXC51cmxzaGFyZVxcLmNuXFxcLyguKiYpP3VybD0oW14mXSspLioiXSwiYyI6WyIkMiJdLCJkIjoiUFJPIn0%3D)
 
 ```
