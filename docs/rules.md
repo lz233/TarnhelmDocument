@@ -612,6 +612,19 @@ https://twitter.com/intent/user?user_id=xxx
 我也不知道为什么这么割裂，但它就是这样
 ```
 
+#### [Twitter 去跟踪](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciDljrvot5%2FouKoiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wvKHd3dy4pP3R3aXR0ZXIuY29tIiwiXFw%2FLioiXSwiYyI6WyJodHRwczpcL1wvdHdpdHRlci5jb20iLCIiXSwiZCI6IkZUUmVleSJ9)
+```
+正则：
+    (http|https)://(www.)?twitter.com
+    \?.*
+替换：
+    https://twitter.com/
+
+作者：FTReey
+https://twitter.com/*/status/*?t=*&s=*
+https://twitter.com/*/status/*
+```
+
 ### 微博
 
 #### [轻享版 Weibo intl.](tarnhelm://rule?regex=eyJhIjoi5b6u5Y2a6L275Lqr54mI5YiG5Lqr6ZO%2B5o6l6L2s5o2iIiwiYiI6WyJzaGFyZS5hcGkud2VpYm8uY24iLCJzaGFyZVwvW14lXSood2VpYm9faWQ9KSJdLCJjIjpbIm0ud2VpYm8uY24iLCJzdGF0dXNcLyJdLCJkIjoi5LiJ5rO9In0%3D)
