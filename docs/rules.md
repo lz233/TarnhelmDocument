@@ -639,6 +639,20 @@ https://m.weibo.cn/profile/xxx
 https://weibo.com/u/xxx
 ```
 
+#### [移动端微博链接去跟踪](tarnhelm://rule?regex=eyJhIjoi56e75Yqo56uv5b6u5Y2a6ZO%2B5o6l5Y676Lef6LiqIiwiYiI6WyJodHRwKHMpPzpcL1wvbS53ZWliby5jbiIsIlxcPy4qIl0sImMiOlsiaHR0cHM6XC9cL20ud2VpYm8uY24iLCIiXSwiZCI6IiJ9)
+
+```
+正则：
+    http(s)?://m.weibo.cn
+    \?.*
+替换：
+    https://m.weibo.cn/
+
+作者：FTReey
+https://m.weibo.cn/status/数字?sourceType=分享参数
+https://m.weibo.cn/status/数字
+```
+
 ### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcykoOlwvXC94aHNsaW5rLmNvbVxcdyopIiwiKFwvLiopIl0sImMiOlsiaHR0cHMkMiIsIiQxICJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
