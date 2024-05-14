@@ -145,6 +145,17 @@ https://www.google.com/search?q=Tarnhelm&oq=Tarnhelm&sourceid=chrome-mobile&ie=U
 https://www.google.com/search?q=Tarnhelm
 ```
 
+### [即刻动态](tarnhelm://rule?parameter=eyJhIjoi5Y2z5Yi75Yqo5oCBIiwiZSI6Im0ub2tqaWtlLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJUQ09UQyJ9)
+
+```
+域名：m.okjike.com
+模式：白名单
+参数：
+作者：TCOTC
+https://m.okjike.com/originalPosts/66421f6c19d274e296473516?s=
+https://m.okjike.com/originalPosts/66421f6c19d274e296473516
+```
+
 ### [Netflix](tarnhelm://rule?parameter=eyJhIjoiTmV0ZmxpeCIsImUiOiJ3d3cubmV0ZmxpeC5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibWl0aWFuMjMzIn0%3D)
 
 ```
