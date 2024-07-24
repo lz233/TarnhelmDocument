@@ -248,6 +248,17 @@ https://m.v.qq.com/x/m/play?vid=p3353dbvy6v&cid=&url_from=share&second_share=0&s
 https://m.v.qq.com/x/m/play?vid=p3353dbvy6v
 ```
 
+### [TikTok](tarnhelm://rule?parameter=eyJhIjoiVGlrdG9rIiwiZSI6Ind3dy50aWt0b2suY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Ik1hdHRpcyJ9)
+
+```
+域名：www.tiktok.com
+模式：白名单
+参数：
+作者：Mattis
+https://www.tiktok.com/@stefan_jmk1/video/7392345125495524641?_r=1&_t=XXXXXXXXXXX
+https://www.tiktok.com/@stefan_jmk1/video/7392345125495524641
+```
+
 ### [网易云音乐](tarnhelm://rule?parameter=eyJhIjoi572R5piT5LqR6Z%2Bz5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0%3D)
 
 ```
@@ -764,4 +775,13 @@ https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid
 作者：Dreista
 https://www.reddit.com/r/rarekumikos/s/xxxxxxxxxx
 https://www.reddit.com/r/rarekumikos/comments/15wxj3u/maid_kumiko/?share_id=xxxxxxxxxxxxxxxxxxxxx
+```
+
+### [TikTok](tarnhelm://rule?redirect=eyJhIjoiVGlrVG9rIiwiZSI6InZtLnRpa3Rvay5jb20iLCJoIjoiIiwiZCI6Ik1hdHRpcyJ9)
+
+```
+域名：www.tiktok.com
+作者：Mattis
+https://vm.tiktok.com/XXXXXXXXX/
+https://www.tiktok.com/@stefan_jmk1/video/7392345125495524641?_r=1&_t=XXXXXXXXXXX
 ```
