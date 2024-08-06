@@ -378,7 +378,16 @@ https://zhuanlan.zhihu.com/p/661689603
 https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca000+b2e53b3649d2faceb9caf17c7c305bca7c3dc99125440b67?appId=&uid=&cuid=DE1C58473E8FD9C41CC3C7569E9CA35A%7C0&jzms=&ishit=1
 https://plat-miniapp.zuoyebang.com/miniapp/share/a114a56e7481c963be1e4e2af47ca000+b2e53b3649d2faceb9caf17c7c305bca7c3dc99125440b67?cuid=DE1C58473E8FD9C41CC3C7569E9CA35A%7C0&ishit=1
 ```
+### [拼多多分享商品](tarnhelm://rule?parameter=eyJhIjoi5ou85YiA5YiA6Y%2BI5o6l5YeI5YyWIiwiZSI6Im1vYmlsZS55YW5na2VkdW8uY29tIiwiZiI6MCwiZyI6WyJnb29kc19pZCJdLCJkIjoic2xxd3F4ZCJ9)
 
+```
+域名：mobile.yangkeduo.com
+模式：白名单
+参数：goods_id
+作者：slqwqxd
+https://mobile.yangkeduo.com/goods2.html?goods_id=609844603732&page_from=114514&pxq_secret_key=114514&_oak_share_snapshot_num=114514&_oak_share_detail_id=114514&_oak_share_time=114514&share_uin=114514&refer_share_id=114514&refer_share_uin=114514&refer_share_channel=copy_link&refer_share_form=text
+https://mobile.yangkeduo.com/goods2.html?goods_id=609844603732
+```
 ## 正则规则
 
 ### [Amazon Japan](tarnhelm://rule?regex=eyJhIjoiQW1hem9uIEphcGFuIiwiYiI6WyJhbWF6b25cXC5jb1xcLmpwXC8uKlwvZHAiLCJyZWY9LioiXSwiYyI6WyJhbWF6b24uY28uanBcL2RwIiwiIl0sImQiOiJNYXRlQ2hhbiJ9)
