@@ -145,6 +145,17 @@ https://www.google.com/search?q=Tarnhelm&oq=Tarnhelm&sourceid=chrome-mobile&ie=U
 https://www.google.com/search?q=Tarnhelm
 ```
 
+### [即刻动态](tarnhelm://rule?parameter=eyJhIjoi5Y2z5Yi75Yqo5oCBIiwiZSI6Im0ub2tqaWtlLmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJUQ09UQyJ9)
+
+```
+域名：m.okjike.com
+模式：白名单
+参数：
+作者：TCOTC
+https://m.okjike.com/originalPosts/66421f6c19d274e296473516?s=
+https://m.okjike.com/originalPosts/66421f6c19d274e296473516
+```
+
 ### [Netflix](tarnhelm://rule?parameter=eyJhIjoiTmV0ZmxpeCIsImUiOiJ3d3cubmV0ZmxpeC5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibWl0aWFuMjMzIn0%3D)
 
 ```
@@ -154,6 +165,19 @@ https://www.google.com/search?q=Tarnhelm
 作者：mitian233
 https://www.netflix.com/tw/title/81565554?s=&trkid=&t=&vlang=&clip=
 https://www.netflix.com/tw/title/81565554
+```
+
+### [QQ 空间 (h5)](tarnhelm://rule?parameter=eyJhIjoiaDUgUVEg56m66Ze0IiwiZSI6Img1LnF6b25lLnFxLmNvbSIsImYiOjAsImciOlsic2hhcmV0YWciLCJhcHBpZCJdLCJkIjoiUFJPLTI2ODQifQ%3D%3D)
+
+```
+域名：h5.qzone.qq.com
+模式：白名单
+参数：
+    sharetag
+    appid
+作者：PRO-2684
+https://h5.qzone.qq.com/ugc/share/?sharetag=&loginfrom=&jumptoqzone=&subtype=&ciphertext=&blog_photo=&g=&res_uin=&cellid=&subid=&bp1=&bp2=&bp7=&appid=&g_f=
+https://h5.qzone.qq.com/ugc/share/?sharetag=&appid=
 ```
 
 ### [QQ 频道](tarnhelm://rule?parameter=eyJhIjoiUVEg6aKR6YGTIiwiZSI6InF1bi5xcS5jb20iLCJmIjowLCJnIjpbImludml0ZUNvZGUiXSwiZCI6IumdkuWiqCJ9)
@@ -222,6 +246,17 @@ http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html?playtime=&url_from=
 http://m.v.qq.com/x/cover/x/mzc00200fr1ry1o/m00441h6knj.html
 https://m.v.qq.com/x/m/play?vid=p3353dbvy6v&cid=&url_from=share&second_share=0&share_from=copy
 https://m.v.qq.com/x/m/play?vid=p3353dbvy6v
+```
+
+### [TikTok](tarnhelm://rule?parameter=eyJhIjoiVGlrdG9rIiwiZSI6Ind3dy50aWt0b2suY29tIiwiZiI6MCwiZyI6WyIiXSwiZCI6Ik1hdHRpcyJ9)
+
+```
+域名：www.tiktok.com
+模式：白名单
+参数：
+作者：Mattis
+https://www.tiktok.com/@stefan_jmk1/video/7392345125495524641?_r=1&_t=XXXXXXXXXXX
+https://www.tiktok.com/@stefan_jmk1/video/7392345125495524641
 ```
 
 ### [网易云音乐](tarnhelm://rule?parameter=eyJhIjoi572R5piT5LqR6Z%2Bz5LmQIiwiZSI6InkubXVzaWMuMTYzLmNvbSIsImYiOjAsImciOlsiaWQiXSwiZCI6Imx6MjMzIn0%3D)
@@ -307,7 +342,9 @@ https://youtu.be/-qqWAo9mpP4?si=jbxjumk4kQ
 https://youtu.be/-qqWAo9mpP4
 ```
 
-### [知乎](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmOIiwiZSI6Ind3dy56aGlodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibHoyMzMifQ%3D%3D)
+### 知乎
+
+#### [知乎](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmOIiwiZSI6Ind3dy56aGlodS5jb20iLCJmIjowLCJnIjpbIiJdLCJkIjoibHoyMzMifQ%3D%3D)
 
 ```
 域名：www.zhihu.com
@@ -316,6 +353,17 @@ https://youtu.be/-qqWAo9mpP4
 作者：lz233
 https://www.zhihu.com/question/621886958/answer/3223202218?utm_psn=
 https://www.zhihu.com/question/621886958/answer/3223202218
+```
+
+#### [知乎文章](tarnhelm://rule?parameter=eyJhIjoi55%2Bl5LmO5paH56ugIiwiZSI6InpodWFubGFuLnpoaWh1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiJUQ09UQyJ9)
+
+```
+域名：zhuanlan.zhihu.com
+模式：白名单
+参数：
+作者：TCOTC
+https://zhuanlan.zhihu.com/p/661689603?utm_psn=
+https://zhuanlan.zhihu.com/p/661689603
 ```
 
 ### [作业帮](tarnhelm://rule?parameter=eyJhIjoi5L2c5Lia5biuIiwiZSI6InBsYXQtbWluaWFwcC56dW95ZWJhbmcuY29tIiwiZiI6MCwiZyI6WyJjdWlkIiwiaXNoaXQiXSwiZCI6Im9tZy14dGFvIn0=)
@@ -361,6 +409,18 @@ https://www.amazon.co.jp/dp/B007V6MQJY
 作者：lz233
 https://www.bilibili.com/video/BV1Ap4y18751/?p=&spm_id_from=&vd_source=
 https://www.bilibili.com/video/BV1Ap4y18751
+```
+
+#### [哔哩哔哩手机版动态分享](tarnhelm://rule?regex=eyJhIjoi5ZOU5ZOp5ZOU5ZOp5omL5py654mI5Yqo5oCB5YiG5LqrIiwiYiI6WyJtLmJpbGliaWxpLmNvbVwvZHluYW1pYyJdLCJjIjpbInQuYmlsaWJpbGkuY29tIl0sImQiOiJGVFJlZXkifQ%3D%3D)
+
+```
+正则：
+     m.bilibili.com/dynamic
+替换：
+     t.bilibili.com
+作者：FTReey
+https://m.bilibili.com/dynamic/xxx
+https://t.bilibili.com/xxx
 ```
 
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
@@ -476,6 +536,42 @@ https://www.pixiv.net/artworks/77096628#5
 https://pixiv.re/77096628-5.png
 ```
 
+### [Pixiv长链接缩短](tarnhelm://rule?regex=eyJhIjoiUGl4aXbplb%2Fpk77mjqXnvKnnn60iLCJiIjpbIm1lbWJlcl9pbGx1c3QucGhwXFw%2FbW9kZT1tZWRpdW0maWxsdXN0X2lkPSJdLCJjIjpbImFydHdvcmtzXC8iXSwiZCI6IkZUUmVleSJ9)
+
+```
+正则：
+    member_illust.php\?mode=medium&illust_id=
+替换：
+    artworks/
+作者：FTReey
+https://www.pixiv.net/member_illust.php?mode=medium&illust_id=xxx
+https://www.pixiv.net/artworks/xxx
+```
+
+### [Pixiv跳转到其他网站](tarnhelm://rule?regex=eyJhIjoiUGl4aXbot7PovazliLDlhbbku5bnvZHnq5kiLCJiIjpbIihodHRwcz86XC9cLykod3d3XFwuKT9waXhpdi5uZXRcL2p1bXAucGhwXFw%2FdXJsPSJdLCJjIjpbIiJdLCJkIjoiRlRSZWV5In0%3D)
+
+```
+正则：
+    (https?://)(www\.)?pixiv.net/jump.php\?url=
+替换:
+
+作者：FTReey
+https://www.pixiv.net/jump.php?url=xxx
+xxx
+```
+
+### [QQ 空间外链 (urlshare.cn)](tarnhelm://rule?parameter=eyJhIjoiUVEg56m66Ze05YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJodHRwcz86XFxcL1xcXC93d3dcXC51cmxzaGFyZVxcLmNuXFxcLyguKiYpP3VybD0oW14mXSspLioiXSwiYyI6WyIkMiJdLCJkIjoiUFJPIn0%3D)
+
+```
+正则：
+    https?:\/\/www\.urlshare\.cn\/(.*&)?url=([^&]+).*
+替换：
+    $2
+作者：PRO-2684
+https://www.urlshare.cn/umirror_url_check?_wv=&srctype=&apptype=&loginuin=&plateform=&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoMHMpa_TojNGMqWSCzh9Zw&src_uin=&src_scene=&cli_scene=
+https://mp.weixin.qq.com/s/oMHMpa_TojNGMqWSCzh9Zw
+```
+
 ### [什么值得买](tarnhelm://rule?regex=eyJhIjoi5LuA5LmI5YC85b6X5LmwIiwiYiI6WyIoaHR0cHM6XC9cL3Rlc3Quc216ZG0uY29tXC9wXC9cXGQrKShcXD8uKil8KGh0dHBzOlwvXC8uKlxcLnNtemRtXFwuY29tXC8uKlwvKSguKikiXSwiYyI6WyIkMSQzIl0sImQiOiJIaW5hdGFLYXRvIn0%3D)
 
 ```
@@ -494,7 +590,9 @@ https://post.m.smzdm.com/talk/p/(ID)/
 https://post.m.smzdm.com/p/(ID)/
 ```
 
-### [Twitter/X](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC92eHR3aXR0ZXIuY29tIiwiIl0sImQiOiJsejIzMyJ9)
+### Twitter
+
+#### [vxtwitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiKGh0dHB8aHR0cHMpOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC92eHR3aXR0ZXIuY29tIiwiIl0sImQiOiJsejIzMyJ9)
 
 ```
 正则：
@@ -508,7 +606,49 @@ https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://vxtwitter.com/mariotaku/status/496733277274013696
 ```
 
-### [微博轻享版 Weibo intl.](tarnhelm://rule?regex=eyJhIjoi5b6u5Y2a6L275Lqr54mI5YiG5Lqr6ZO%2B5o6l6L2s5o2iIiwiYiI6WyJzaGFyZS5hcGkud2VpYm8uY24iLCJzaGFyZVwvW14lXSood2VpYm9faWQ9KSJdLCJjIjpbIm0ud2VpYm8uY24iLCJzdGF0dXNcLyJdLCJkIjoi5LiJ5rO9In0%3D)
+#### [fxtwitter](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiaHR0cHM%2FOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC9meHR3aXR0ZXIuY29tIiwiIl0sImQiOiJxcnFyIn0%3D)
+
+```
+正则：
+    https?://(twitter|x).com
+    \?.*
+替换：
+    https://fxtwitter.com
+    
+作者：qrqr
+https://twitter.com/mariotaku/status/496733277274013696?t=&s=
+https://fxtwitter.com/mariotaku/status/496733277274013696
+```
+
+#### [Twitter UID链接优化](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciBVSUTpk77mjqXkvJjljJYiLCJiIjpbInR3aXR0ZXIuY29tXC9pXC91c2VyXC8iXSwiYyI6WyJ0d2l0dGVyLmNvbVwvaW50ZW50XC91c2VyP3VzZXJfaWQ9Il0sImQiOiJGVFJlZXkifQ%3D%3D)
+```
+正则：
+    twitter.com/i/user/
+替换：
+    twitter.com/intent/user?user_id=
+作者：FTReey
+https://twitter.com/i/user/xxx
+https://twitter.com/intent/user?user_id=xxx
+
+开启后移动端应用才能正确识别twitter.com/i/链接
+我也不知道为什么这么割裂，但它就是这样
+```
+
+#### [Twitter 去跟踪](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciDljrvot5%2FouKoiLCJiIjpbIihodHRwfGh0dHBzKTpcL1wvKHd3dy4pP3R3aXR0ZXIuY29tIiwiXFw%2FLioiXSwiYyI6WyJodHRwczpcL1wvdHdpdHRlci5jb20iLCIiXSwiZCI6IkZUUmVleSJ9)
+```
+正则：
+    (http|https)://(www.)?twitter.com
+    \?.*
+替换：
+    https://twitter.com
+作者：FTReey
+https://twitter.com/*/status/*?t=*&s=*
+https://twitter.com/*/status/*
+```
+
+### 微博
+
+#### [轻享版 Weibo intl.](tarnhelm://rule?regex=eyJhIjoi5b6u5Y2a6L275Lqr54mI5YiG5Lqr6ZO%2B5o6l6L2s5o2iIiwiYiI6WyJzaGFyZS5hcGkud2VpYm8uY24iLCJzaGFyZVwvW14lXSood2VpYm9faWQ9KSJdLCJjIjpbIm0ud2VpYm8uY24iLCJzdGF0dXNcLyJdLCJkIjoi5LiJ5rO9In0%3D)
 
 ```
 正则：
@@ -520,6 +660,31 @@ https://vxtwitter.com/mariotaku/status/496733277274013696
 作者：三泽
 https://share.api.weibo.cn/share/0,4838040630203665.html?weibo_id=4838040630203665
 https://m.weibo.cn/status/4838040630203665
+```
+#### [移动端微博用户页分享链接](tarnhelm://rule?regex=eyJhIjoi56e75Yqo56uv5b6u5Y2a55So5oi36aG15YiG5Lqr6ZO%2B5o6lIiwiYiI6WyJtLndlaWJvLmNuXC9wcm9maWxlIl0sImMiOlsid2VpYm8uY29tXC91Il0sImQiOiJGVFJlZXkifQ%3D%3D)
+
+```
+正则：
+    m.weibo.cn/profile
+替换：
+    weibo.com/u
+作者：FTReey
+https://m.weibo.cn/profile/xxx
+https://weibo.com/u/xxx
+```
+
+#### [移动端微博链接去跟踪](tarnhelm://rule?regex=eyJhIjoi56e75Yqo56uv5b6u5Y2a6ZO%2B5o6l5Y676Lef6LiqIiwiYiI6WyJodHRwKHMpPzpcL1wvbS53ZWliby5jbiIsIlxcPy4qIl0sImMiOlsiaHR0cHM6XC9cL20ud2VpYm8uY24iLCIiXSwiZCI6IiJ9)
+
+```
+正则：
+    http(s)?://m.weibo.cn
+    \?.*
+替换：
+    https://m.weibo.cn/
+
+作者：FTReey
+https://m.weibo.cn/status/数字?sourceType=分享参数
+https://m.weibo.cn/status/数字
 ```
 
 ### [小红书](tarnhelm://rule?regex=eyJhIjoi5bCP57qi5LmmIiwiYiI6WyIoaHR0cHxodHRwcykoOlwvXC94aHNsaW5rLmNvbVxcdyopIiwiKFwvLiopIl0sImMiOlsiaHR0cHMkMiIsIiQxICJdLCJkIjoibHoyMzMifQ%3D%3D)
@@ -578,6 +743,20 @@ https://youtu.be/a-rWPzGrLHk
 http://www.youtu.be/a-rWPzGrLHk
 ```
 
+### [知乎关怀版](tarnhelm://rule?redirect=eyJhIjoi55%2Bl5LmO5YWz5oCA54mIIiwiYiI6WyJ3d3cuemhpaHUuY29tXC9xdWVzdGlvbiIsIlxcPy4qIl0sImMiOlsid3d3LnpoaWh1LmNvbVwvYXJpYVwvcXVlc3Rpb24iXSwiZCI6IkJpbmdvS2luZ28ifQ%3D%3D)
+
+```
+正则：
+    www.zhihu.com/question
+    \?.*
+替换：
+    www.zhihu.com/aria/question
+
+作者：BingoKingo
+https://www.zhihu.com/question/621886958/answer/3223202218
+https://www.zhihu.com/aria/question/621886958/answer/3223202218
+```
+
 ## 重定向规则
 
 ### [哔哩哔哩](tarnhelm://rule?redirect=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiZSI6ImIyMy50diIsImQiOiJsejIzMyJ9)
@@ -596,4 +775,13 @@ https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid
 作者：Dreista
 https://www.reddit.com/r/rarekumikos/s/xxxxxxxxxx
 https://www.reddit.com/r/rarekumikos/comments/15wxj3u/maid_kumiko/?share_id=xxxxxxxxxxxxxxxxxxxxx
+```
+
+### [TikTok](tarnhelm://rule?redirect=eyJhIjoiVGlrVG9rIiwiZSI6InZtLnRpa3Rvay5jb20iLCJoIjoiIiwiZCI6Ik1hdHRpcyJ9)
+
+```
+域名：www.tiktok.com
+作者：Mattis
+https://vm.tiktok.com/XXXXXXXXX/
+https://www.tiktok.com/@stefan_jmk1/video/7392345125495524641?_r=1&_t=XXXXXXXXXXX
 ```
