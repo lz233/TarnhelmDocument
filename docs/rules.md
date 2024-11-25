@@ -760,7 +760,7 @@ https://www.zhihu.com/aria/question/621886958/answer/3223202218
 
 ## 重定向规则
 
-### [哔哩哔哩](tarnhelm://rule?redirect=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiZSI6ImIyMy50diIsImQiOiJsejIzMyJ9)
+### [哔哩哔哩](tarnhelm://rule?redirect=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiZSI6ImIyMy50diIsImgiOiIiLCJkIjoibHoyMzMifQ==)
 
 ```
 域名：b23.tv
@@ -769,7 +769,7 @@ https://b23.tv/UtWjqWJ
 https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid=&p=&plat_id=&share_from=&share_medium=&share_plat=&share_session_id=&share_source=&share_tag=&spmid=&timestamp=&unique_k=&up_id=&vd_source=
 ```
 
-### [Reddit](tarnhelm://rule?redirect=eyJhIjoiUmVkZGl0IiwiZSI6Ind3dy5yZWRkaXQuY29tIiwiZCI6IkRyZWlzdGEifQ%3D%3D)
+### [Reddit](tarnhelm://rule?redirect=eyJhIjoiUmVkZGl0IiwiZSI6Ind3dy5yZWRkaXQuY29tIiwiaCI6IiIsImQiOiJEcmVpc3RhIn0=)
 
 ```
 域名：www.reddit.com
