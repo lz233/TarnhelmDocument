@@ -780,6 +780,15 @@ https://b23.tv/UtWjqWJ
 https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid=&p=&plat_id=&share_from=&share_medium=&share_plat=&share_session_id=&share_source=&share_tag=&spmid=&timestamp=&unique_k=&up_id=&vd_source=
 ```
 
+### [哔哩哔哩](tarnhelm://rule?redirect=eyJhIjoi5ZOU5ZOp5ZOU5ZOpIiwiZSI6ImJpbGkyMjMzLmNuIiwiaCI6IiIsImQiOiJab3Jyb2JsYW5jbyJ9)
+
+```
+域名：bili2233.cn
+作者：Zorroblanco
+https://bili2233.cn/UtWjqWJ
+https://www.bilibili.com/video/BV11w411M72E/?buvid=&from_spmid=&is_story_h5=&mid=&p=&plat_id=&share_from=&share_medium=&share_plat=&share_session_id=&share_source=&share_tag=&spmid=&timestamp=&unique_k=&up_id=&vd_source=
+```
+
 ### [Reddit](tarnhelm://rule?redirect=eyJhIjoiUmVkZGl0IiwiZSI6Ind3dy5yZWRkaXQuY29tIiwiaCI6IiIsImQiOiJEcmVpc3RhIn0=)
 
 ```
