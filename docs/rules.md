@@ -632,6 +632,20 @@ https://twitter.com/mariotaku/status/496733277274013696?t=&s=
 https://fxtwitter.com/mariotaku/status/496733277274013696
 ```
 
+#### [fixupx](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciIsImIiOlsiaHR0cHM%2FOlwvXC8odHdpdHRlcnx4KS5jb20iLCJcXD8uKiJdLCJjIjpbImh0dHBzOlwvXC9maXh1cHguY29tIiwiIl0sImQiOiJsejIzMyJ9)
+
+```
+正则：
+    (http|https)://(twitter|x).com
+    \?.*
+替换：
+    https://fixupx.com
+    
+作者：lz233
+https://x.com/mariotaku/status/496733277274013696?t=&s=
+https://fixupx.com/mariotaku/status/496733277274013696
+```
+
 #### [Twitter UID链接优化](tarnhelm://rule?regex=eyJhIjoiVHdpdHRlciBVSUTpk77mjqXkvJjljJYiLCJiIjpbInR3aXR0ZXIuY29tXC9pXC91c2VyXC8iXSwiYyI6WyJ0d2l0dGVyLmNvbVwvaW50ZW50XC91c2VyP3VzZXJfaWQ9Il0sImQiOiJGVFJlZXkifQ%3D%3D)
 ```
 正则：
