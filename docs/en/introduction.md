@@ -34,22 +34,7 @@ When sharing content, check "Tarnhelm" to process the link and proceed to the ne
 
 In ideal conditions, Tarnhelm would be in the background to listen to the clipboard and processing the content in real time.
 
-If you are using a MIUI device, please ignore the following commands and look [here](./introduction-miui.html).
-
-In order to enable this feature on Android 10+ devices, use ADB to execute the following command:
-
-```shell
-adb shell appops set cn.ac.lz233.tarnhelm SYSTEM_ALERT_WINDOW allow
-adb shell pm grant cn.ac.lz233.tarnhelm android.permission.READ_LOGS
-adb shell am force-stop cn.ac.lz233.tarnhelm
-```
-
-Also, in order to allow this app to automatically open processing services on most types of modified ROMs, please lock Tarnhelm in the Recent Tasks screen and go to Security Center - Autostart Management to allow Tarnhelm to start itself, or manually open Tarnhelm once after each boot. Please rest assured that Tarnhelm will not do any redundant operations in the background.
-
-<p style="text-align: center;">
-<img src="../img/introduction-5.webp" style="zoom: 40%;" />
-</p>
-On Android 13+ devices, the above prompt may also appear and will only allow one-time authorization. In this case, it is highly recommended to turn on foreground service mode, otherwise you will be asked to re-authorize every once in a while.
+For devices running Android Q and above, [Shizuku](https://shizuku.rikka.app) is needed to elevate permissions, because the system restricts the ability of normal applications to read the clipboard in the background.
 
 ## Xposed Mode
 

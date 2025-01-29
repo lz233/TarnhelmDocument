@@ -34,23 +34,8 @@ Tarnhelm 一词来源于《The Ring of the Nibelung》，参见 [Wikipedia](http
 
 理想情况下，Tarnhelm 会常驻后台监听剪贴板，并对内容进行实时处理。
 
-如果你在使用 MIUI 设备，请忽略以下命令，并看[这里](./introduction-miui.html)。
 
-为了在 Android 10+ 的设备上开启此功能，请使用 ADB 执行以下命令：
-
-```shell
-adb shell appops set cn.ac.lz233.tarnhelm SYSTEM_ALERT_WINDOW allow
-adb shell pm grant cn.ac.lz233.tarnhelm android.permission.READ_LOGS
-adb shell am force-stop cn.ac.lz233.tarnhelm
-```
-
-同时，为了在各类国产 ROM 上允许应用自动开启处理服务，请在「最近任务」界面锁定 Tarnhelm，并转到「安全中心」-「自启动管理」，允许 Tarnhelm 自启动，或在每次开机后手动打开 Tarnhelm 一次。请放心，Tarnhelm 不会在后台进行任何多余的操作。
-
-<p style="text-align: center;">
-<img src="./img/introduction-5.webp" style="zoom: 40%;" />
-</p>
-
-在 Android 13+ 设备上，可能还会有如上提示出现，且仅能允许一次性授权。此时，强烈推荐打开前台服务模式，否则每隔一段时间，系统都会要求您重新进行授权。
+对于 Android Q 以上的设备，需要使用 [Shizuku](https://shizuku.rikka.app) 进行提权操作，因为系统限制了普通应用在后台读取剪切板的能力。
 
 ## Xposed 模式
 
