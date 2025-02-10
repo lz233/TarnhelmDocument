@@ -446,6 +446,20 @@ https://t.bilibili.com/xxx
 自己找例子（
 ```
 
+### Facebook
+
+```
+正则:
+    \?mibextid=.*
+    \?fbclid=.*
+替换:
+
+    
+作者:faizul726
+https://www.facebook.com/share/r/1BThj9HQw2/?mibextid=rS40aB7S9Ucbxw6v
+https://www.facebook.com/share/r/1BThj9HQw2/
+```
+
 ### [Fanbox](tarnhelm://rule?regex=eyJhIjoiZmFuYm94IiwiYiI6WyIuZmFuYm94LmNjIiwiXFw%2FLioiXSwiYyI6WyIuZmFuYm94LmNjIiwiIl0sImQiOiJvbWcteHRhbyJ9)
 
 ```
@@ -479,9 +493,11 @@ https://appgallery.cloud.huawei.com/appdl/C100137037
 ```
 正则：
     \?igshid=.*
+    \?igsh=.*
 替换：
+
     
-作者：Zois
+作者：Zois, faizul726
 https://www.threads.net/t/CuWKGXPv_n4/?igshid=
 https://www.threads.net/t/CuWKGXPv_n4/
 ```
