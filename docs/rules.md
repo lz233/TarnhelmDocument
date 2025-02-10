@@ -446,16 +446,16 @@ https://t.bilibili.com/xxx
 自己找例子（
 ```
 
-### Facebook
+### [Facebook](tarnhelm://rule?regex=eyJhIjoiRmFjZWJvb2siLCJiIjpbIlxcP21pYmV4dGlkPS4qIiwiXFw%2FZmJjbGlkPS4qIl0sImMiOlsiIiwiIl0sImQiOiJmYWl6dWw3MjYifQ%3D%3D)
 
 ```
-正则:
+正则：
     \?mibextid=.*
     \?fbclid=.*
-替换:
+替换：
 
     
-作者:faizul726
+作者：faizul726
 https://www.facebook.com/share/r/1BThj9HQw2/?mibextid=rS40aB7S9Ucbxw6v
 https://www.facebook.com/share/r/1BThj9HQw2/
 ```
@@ -488,7 +488,7 @@ https://appgallery.huawei.com/app/C100137037?sharePrepath=ag&locale=zh_CN&source
 https://appgallery.cloud.huawei.com/appdl/C100137037
 ```
 
-### [Instagram/Threads](tarnhelm://rule?regex=eyJhIjoiVGhyZWFkcy5uZXQiLCJiIjpbIlxcP2lnc2hpZD0uKiJdLCJjIjpbIiJdLCJkIjoiZ2Nud20ifQ%3D%3D)
+### [Instagram/Threads](tarnhelm://rule?regex=eyJhIjoiSW5zdGFncmFtXC9UaHJlYWRzIiwiYiI6WyJcXD9pZ3NoPS4qIiwiXFw%2FaWdzaGlkPS4qIl0sImMiOlsiIiwiIl0sImQiOiJab2lzLCBmYWl6dWw3MjYifQ%3D%3D)
 
 ```
 正则：
@@ -783,6 +783,18 @@ https://youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
 http://www.youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
 https://youtu.be/a-rWPzGrLHk
 http://www.youtu.be/a-rWPzGrLHk
+```
+
+#### [JustRemoveSi](tarnhelm://rule?regex=eyJhIjoiWW91VHViZSIsImIiOlsiXFw%2Fc2k9LioiXSwiYyI6WyIiXSwiZCI6ImZhaXp1bDcyNiJ9)
+
+```
+正则：
+    \?si=.*
+替换：
+
+作者：faizul726
+https://youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+https://youtu.be/a-rWPzGrLHk
 ```
 
 ### [知乎关怀版](tarnhelm://rule?redirect=eyJhIjoi55%2Bl5LmO5YWz5oCA54mIIiwiYiI6WyJ3d3cuemhpaHUuY29tXC9xdWVzdGlvbiIsIlxcPy4qIl0sImMiOlsid3d3LnpoaWh1LmNvbVwvYXJpYVwvcXVlc3Rpb24iXSwiZCI6IkJpbmdvS2luZ28ifQ%3D%3D)
