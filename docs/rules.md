@@ -66,7 +66,8 @@
 输出：https://space.bilibili.com/1265680561
 ```
 
-#### [预约分享](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9) [rules.md](https://github.com/user-attachments/files/17691974/rules.md)
+#### [预约分享](tarnhelm://rule?parameter=eyJhIjoi55u05pKt6aKE57qm5YiG5LqrIiwiZSI6Ind3dy5iaWxpYmlsaS5jb20iLCJmIjoxLCJnIjpbImlfdHJhbnNmZXJfbWF0Y2giXSwiZCI6IumdkuWiqCJ9)
+
 
 ```
 域名：www.bilibili.com
@@ -431,7 +432,7 @@
 替换：
     e-hentai.org
 作者：ous50
-备注：自己找例子（
+自己找例子（
 ```
 
 ### [Fanbox](tarnhelm://rule?regex=eyJhIjoiZmFuYm94IiwiYiI6WyIuZmFuYm94LmNjIiwiXFw%2FLioiXSwiYyI6WyIuZmFuYm94LmNjIiwiIl0sImQiOiJvbWcteHRhbyJ9)
@@ -462,16 +463,18 @@
 输出：https://appgallery.cloud.huawei.com/appdl/C100137037
 ```
 
-### [Instagram/Threads](tarnhelm://rule?regex=eyJhIjoiVGhyZWFkcy5uZXQiLCJiIjpbIlxcP2lnc2hpZD0uKiJdLCJjIjpbIiJdLCJkIjoiZ2Nud20ifQ%3D%3D)
+### [Instagram/Threads](tarnhelm://rule?regex=eyJhIjoiSW5zdGFncmFtXC9UaHJlYWRzIiwiYiI6WyJcXD9pZ3NoPS4qIiwiXFw%2FaWdzaGlkPS4qIl0sImMiOlsiIiwiIl0sImQiOiJab2lzLCBmYWl6dWw3MjYifQ%3D%3D)
 
 ```
 正则：
     \?igshid=.*
+    \?igsh=.*
 替换：
+
     
 作者：Zois
-输入：https://www.threads.net/t/CuWKGXPv_n4/?igshid=
-输出：https://www.threads.net/t/CuWKGXPv_n4/
+https://www.threads.net/t/CuWKGXPv_n4/?igshid=
+https://www.threads.net/t/CuWKGXPv_n4/
 ```
 
 ### [京东](tarnhelm://rule?regex=eyJhIjoi5Lqs5LicIiwiYiI6WyJpdGVtLm0uamQuY29tIiwiXFw%2FLioiLCJwcm9kdWN0XC8iXSwiYyI6WyJpdGVtLmpkLmNvbSIsIiIsIiJdLCJkIjoibHoyMzMifQ%3D%3D)
@@ -749,10 +752,10 @@
 替换：
     $1$2$3$4
 作者：HinataKato
-输入：https://youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
-输出：http://www.youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
-输入：https://youtu.be/a-rWPzGrLHk
-输出：http://www.youtu.be/a-rWPzGrLHk
+https://youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+http://www.youtu.be/a-rWPzGrLHk?si=BJD9340-yS53Hn6t
+https://youtu.be/a-rWPzGrLHk
+http://www.youtu.be/a-rWPzGrLHk
 ```
 
 ### [知乎关怀版](tarnhelm://rule?redirect=eyJhIjoi55%2Bl5LmO5YWz5oCA54mIIiwiYiI6WyJ3d3cuemhpaHUuY29tXC9xdWVzdGlvbiIsIlxcPy4qIl0sImMiOlsid3d3LnpoaWh1LmNvbVwvYXJpYVwvcXVlc3Rpb24iXSwiZCI6IkJpbmdvS2luZ28ifQ%3D%3D)
