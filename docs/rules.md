@@ -18,6 +18,7 @@
 输入：https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185?i=
 输出：https://music.apple.com/jp/album/ヒミツ恋ゴコロ/1629870185
 ```
+
 ### [百度贴吧分享](tarnhelm://rule?parameter=eyJhIjoi55m%2B5bqm6LS05ZCnIiwiZSI6InRpZWJhLmJhaWR1LmNvbSIsImYiOjAsImciOlsiIl0sImQiOiLpnZLloqgifQ%3D%3D)
 
 ```
