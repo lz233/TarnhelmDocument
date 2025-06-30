@@ -112,16 +112,6 @@
 输出：https://www.dlsite.com/soft/work/=/product_id/VJ014866.html
 ```
 
-### [豆瓣](tarnhelm://rule?parameter=eyJhIjoi6LGG55OjIiwiZSI6Ind3dy5kb3ViYW4uY29tIiwiZiI6MCwiZyI6WyJ1cmkiXSwiZCI6IiJ9)
-
-```
-域名：www.douban.com
-模式：白名单
-参数：uri
-作者：ChellyL
-输入：https://www.douban.com/doubanapp/dispatch?uri=%2Fgroup%2Ftopic%2F312849796&_i=29822138ecb1e7f
-输出：https://www.douban.com/doubanapp/dispatch?uri=/group/topic/312849796
-```
 
 ### [恩山无线论坛](tarnhelm://rule?parameter=eyJhIjoi5oGp5bGx5peg57q%2F6K665Z2bIiwiZSI6Ind3dy5yaWdodC5jb20uY24iLCJmIjoxLCJnIjpbImF1dGhvcmlkIiwiZXh0cmEiXSwiZCI6Im91czUwICJ9)
 
@@ -423,6 +413,18 @@
 作者：FTReey
 输入：https://m.bilibili.com/dynamic/xxx
 输出：https://t.bilibili.com/xxx
+```
+
+### [豆瓣](tarnhelm://rule?regex=eyJhIjoi6LGG55OjIiwiYiI6WyJfc3BtX2lkPS4qIl0sImMiOlsiIl0sImQiOiIifQ%3D%3D)
+
+```
+正则：
+    _spm_id=.*
+替换：
+
+作者：ChellyL
+输入：https://www.douban.com/doubanapp/dispatch?uri=/group/topic/329809762?_spm_id=MjQ3NzU2NzEz&_i=51253234ecb1e7f
+输出：https://www.douban.com/doubanapp/dispatch?uri=/group/topic/329809762?
 ```
 
 ### [E绅士表站全局访问（仅适用于捐赠用户）](tarnhelm://rule?regex=eyJhIjoiRee7heWjq%2BihqOermeWFqOWxgO%2B8iOS7hemAgueUqOS6juaNkOi1oOeUqOaIt%2B%2B8iSIsImIiOlsiZXhoZW50YWkub3JnIl0sImMiOlsiZS1oZW50YWkub3JnIl0sImQiOiJvdXM1MCJ9)
